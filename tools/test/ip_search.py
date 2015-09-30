@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #coding:utf-8
-# Author:   --<cj>
+# Author:   --<>
 # Purpose: 
 # Created: 2013/11/11
 

@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Date    : 2015-05-01 10:40:04
-# @Author  : chen jun (chenjun2@kingsoft.com)
-# @Link    : www.ijinshan.com
+# @Date    : 2015-09-30 13:26:36
+# @Author  : nwcrazysword (nwcrazysword@gmail.com)
+# @Link    : https://github.com/nwcrazysword
 # @Version : $Id$
 
 import subprocess

@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Date    : 2015-04-23 23:31:53
-# @Author  : chenjun (you@example.org)
-# @Link    : http://example.org
+# @Date    : 2015-09-30 13:26:36
+# @Author  : nwcrazysword (nwcrazysword@gmail.com)
+# @Link    : https://github.com/nwcrazysword
 # @Version : $Id$
 
 """
