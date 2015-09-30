@@ -1,8 +1,9 @@
 #!/usr/bin/env python
-#coding:utf-8
-# Author:   --<cj>
-# Purpose: 
-# Created: 2013/5/15
+# -*- coding: utf-8 -*-
+# @Date    : 2015-09-30 13:26:36
+# @Author  : nwcrazysword (nwcrazysword@gmail.com)
+# @Link    : https://github.com/nwcrazysword
+# @Version : $Id$
 
 import os,sys
 import string
