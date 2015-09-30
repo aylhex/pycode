@@ -1,0 +1,14 @@
+I am aware of Django's reverse function:
+
+from django.core.urlresolvers import reverse
+reverse('my_view_name')
+However, if I want to get the URL using reverse from a 3rd part package I get a NoReverseMatch.
+
+For example, take the package oauth2_provider where I want to get the token url.
+
+my include urls.py...
+
+url(r'^api/', include('oauth2_provider.urls', namespace='oauth2_provider')),
+Then I do reverse('token') and get
+
+NoReverseMatch: Reverse for 'token' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []

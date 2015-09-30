@@ -1,0 +1,29 @@
+But when I try to import:
+
+from humanapi import get_authorize_url, get_auth_session
+I get:
+
+ERROR    2015-03-27 13:18:05,023 wsgi.py:263] 
+Traceback (most recent call last):
+  File "/Applications/GoogleAppEngineLauncher.app/Contents/Resources/GoogleAppEngine-default.bundle/Contents/Resources/google_appengine/google/appengine/runtime/wsgi.py", line 240, in Handle
+    handler = _config_handle.add_wsgi_middleware(self._LoadHandler())
+  File "/Applications/GoogleAppEngineLauncher.app/Contents/Resources/GoogleAppEngine-default.bundle/Contents/Resources/google_appengine/google/appengine/runtime/wsgi.py", line 299, in _LoadHandler
+    handler, path, err = LoadObject(self._handler)
+  File "/Applications/GoogleAppEngineLauncher.app/Contents/Resources/GoogleAppEngine-default.bundle/Contents/Resources/google_appengine/google/appengine/runtime/wsgi.py", line 85, in LoadObject
+    obj = __import__(path[0])
+  File "/Users/jimmykane/projects/dimitrioskanellopoulos.com/main.py", line 2, in <module>
+    from controllers import server, auth, metrics
+  File "/Users/jimmykane/projects/dimitrioskanellopoulos.com/controllers/auth.py", line 9, in <module>
+    from humanapi import get_authorize_url, get_auth_session
+  File "/Users/jimmykane/projects/dimitrioskanellopoulos.com/lib/humanapi/__init__.py", line 1, in <module>
+    from .api import *
+  File "/Users/jimmykane/projects/dimitrioskanellopoulos.com/lib/humanapi/api.py", line 1, in <module>
+    import requests, os.path, logging, sys, time
+  File "/Users/jimmykane/projects/dimitrioskanellopoulos.com/lib/requests/__init__.py", line 58, in <module>
+    from . import utils
+  File "/Users/jimmykane/projects/dimitrioskanellopoulos.com/lib/requests/utils.py", line 26, in <module>
+    from .compat import parse_http_list as _parse_list_header
+  File "/Users/jimmykane/projects/dimitrioskanellopoulos.com/lib/requests/compat.py", line 42, in <module>
+    from .packages.urllib3.packages.ordered_dict import OrderedDict
+  File "/Users/jimmykane/projects/dimitrioskanellopoulos.com/lib/requests/packages/__init__.py", line 95, in load_module
+    raise ImportError("No module named '%s'" % (name,))

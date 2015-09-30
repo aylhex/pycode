@@ -1,0 +1,14 @@
+marked as duplicate by thefourtheye 1 hour ago
+
+This question has been asked before and already has an answer. If those answers do not fully address your question, please ask a new question.
+
+  	 	
+contextlib is not deprecated, but contextlib.nested() is, as it won't handle exceptions when opening correctly. 每  Martijn Pieters 1 hour ago
+  	 	
+@MartijnPieters thanks for correcting 每  iggy 1 hour ago
+1	 	
+Related: Alternative to contextlib.nested with variable number of context managers 每  Martijn Pieters 1 hour ago
+  	 	
+Since you open them only for write, isn't it possible to write to the files one after another? I usually hate those questions but do you really need to have them open all at the same time? Otherwise you could use with open(name, "w+") as fileobj: within a foreach loop over the names. Which would actually be the preferred way afaik. 每  swenzel 1 hour ago
+  	 	
+If you use the try/finally approach, the trick is to use a for loop that has a try/except clause so that you continue after exceptions. 每  tdelaney 32 mins ago

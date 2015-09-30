@@ -1,0 +1,13 @@
+w9xpopen.exe                     
+getfilesinfo.exe                     
+_ctypes.pyd      
+win32api.pyd      
+filesinfo.txt      
+library.zip      
+getDigitalSigner.dll                     
+pywintypes27.dll  2.7.218.0     
+python27.dll  2.7.3150.1013     
+unicodedata.pyd      
+select.pyd      
+bz2.pyd      
+_hashlib.pyd      

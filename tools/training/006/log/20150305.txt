@@ -1,0 +1,34 @@
+I am trying to use the Human Api Python client with GAE.
+
+I created a appengine_config.py and followed all instructions as described in Third-party Libraries in Python 2.7 documentation for GAE
+
+My appengine_config.py looks like:
+
+"""This file is loaded when starting a new application instance."""
+
+from google.appengine.ext import vendor
+
+# Add any libraries installed in the "lib" folder.
+vendor.add('lib')
+My requirements.txt looks like so:
+
+HumanAPI
+... and installs correctly:
+
+Downloading/unpacking HumanAPI (from -r requirements.txt (line 1))
+  Downloading humanapi-0.1.10.tar.gz
+  Running setup.py (path:/private/var/folders/yq/s_1v2vtn2sxbtw_gz00q1r5w0000gp/T/pip_build_jimmykane/HumanAPI/setup.py) egg_info for package HumanAPI
+
+Downloading/unpacking requests>=0.13.2 (from HumanAPI->-r requirements.txt (line 1))
+  Downloading requests-2.6.0-py2.py3-none-any.whl (469kB): 469kB downloaded
+Downloading/unpacking docopt==0.4.0 (from HumanAPI->-r requirements.txt (line 1))
+  Downloading docopt-0.4.0.tar.gz
+  Running setup.py (path:/private/var/folders/yq/s_1v2vtn2sxbtw_gz00q1r5w0000gp/T/pip_build_jimmykane/docopt/setup.py) egg_info for package docopt
+
+Installing collected packages: HumanAPI, requests, docopt
+  Running setup.py install for HumanAPI
+
+  Running setup.py install for docopt
+
+Successfully installed HumanAPI requests docopt
+Cleaning up...

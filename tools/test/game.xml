@@ -1,0 +1,1735 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<GameConfig>
+
+		<Progress progressname="game.exe">
+			<File>jxonline.exe</File>
+			<File>autoupdateres.dll</File>
+		</Progress>
+		
+		<Progress progressname="jxonline.exe">
+			<File>game.exe</File>
+			<File>autoupdateres.dll</File>
+		</Progress>
+		
+		<Progress progressname="XClient.exe">
+			<File>TenSLX.dll</File>
+			<File>TerSafe.dll</File>
+		</Progress>
+		
+		<!-- 剑侠情缘网络版2 -->
+		<Progress progressname="so2game.exe">
+			<File>Jxonline2.exe</File>
+		</Progress>
+
+		<Progress progressname="FS2Run.exe">
+			<File>game.exe</File>
+			<File>FilterText.dll</File>
+		</Progress>
+
+		<Progress progressname="DragonNest.exe">
+		  <File>dnlauncher.exe</File>
+		</Progress>
+		
+		<Progress progressname="MATOnline.exe">
+			<File>dnlauncher.exe</File>
+			<File>DnLottery.exe</File>
+		</Progress>
+		
+        <!-- 地下城与勇士 -->
+		<Progress progressname="DNF.exe">
+			<File>start\LauncherUpdator.exe</File>
+			<File>start\QQLogin.exe</File>
+		</Progress>
+		
+        <!-- 地下城与勇士 -->
+		<Progress progressname="DNFchina.exe">
+			<File>LauncherUpdator.exe</File>
+			<File>QQLogin.exe</File>
+		</Progress>
+		
+        <!-- 梦幻西游2 -->
+		<Progress progressname="my.exe">
+			<File>XY1Update.exe</File>
+			<File>XY1Patch.exe</File>
+		</Progress>
+		
+		<!-- 流星蝴蝶剑OL -->
+		<Progress progressname="OdinGame.exe">
+			<File>Odin.exe</File>
+			<File>NgWorkProcess.exe</File>
+		</Progress>
+
+		<!-- 疾风之刃 -->
+		<Progress progressname="JFZR.exe">
+			<File>PhysXLoader.dll</File>
+			<File>d3dx9_43.dll</File>
+		</Progress>
+		
+		<!-- 颓废之心 -->
+		<Progress progressname="RHLoginMain.exe">
+			<File>XGLoginUpdater.exe</File>
+			<File>XLBugReport.exe</File>
+		</Progress>
+		
+		<!-- 英雄大乱斗 -->
+		<Progress progressname="autoupgrade.exe">
+			<File>lostsaga.exe</File>
+			<File>lswebbroker.exe</File>
+		</Progress>
+		
+		<!-- 画皮世界 -->
+		<Progress progressname="PSkin.exe">
+			<File>PhysXCore.dll</File>
+			<File>swscale-2.dll</File>
+		</Progress>
+		
+        <!-- 神魔大陆 -->
+		<Progress progressname="game.exe">
+			<File>gtembed.dll</File>
+			<File>ifc22.dll</File>
+		</Progress>
+
+        <!-- 梦幻西游2 -->
+		<Progress progressname="mhtab.exe">
+			<File>XY1Update.exe</File>
+			<File>XY1Patch.exe</File>
+		</Progress>
+		
+         <!-- 圣斗士星矢 -->
+		<Progress progressname="seiya.exe">
+			<File>unicows.dll</File>
+			<File>d3dx9_43.dll</File>
+		</Progress>
+		
+		<Progress progressname="xy2.exe">
+			<File>XY2Update.exe</File>
+			<File>gpatch.exe</File>
+		</Progress>
+
+		<Progress progressname="xymain.bin">
+			<File>gpatch.exe</File>
+		</Progress>
+
+		<Progress progressname="zhengtu.dat">
+			<File>weapon.dat</File>
+		</Progress>
+
+		<Progress progressname="Client.exe">
+			<File>game.exe</File>
+		</Progress>
+		
+		<Progress progressname="soul.exe">
+			<File>play.exe</File>
+			<File> drvup.exe</File>
+		</Progress>
+
+		<!-- 传奇 -->		
+		<Progress progressname="mir.exe">
+			<File>mirsettings.exe</File>
+			<File> mir1.dat</File>
+		</Progress>
+		
+		<Progress progressname="woool.exe">
+			<File>woool.dat</File>
+		</Progress>
+		
+		<Progress progressname="QQSG.exe">
+			<File>QQLogin.exe</File>
+		</Progress>
+				
+		<Progress progressname="qqhxsj.exe">
+			<File>qqfw.bin</File>
+			<File>bugreport.exe</File>
+		</Progress>
+		
+		<Progress progressname="MapleStory.exe">
+			<File>ASPLnchr.exe</File>
+			<File>Patcher.exe</File>
+		</Progress>
+		
+		<Progress progressname="asktao.mod">
+			<File>DBFSupdate.exe</File>
+			<File>AskTaoService.exe</File>
+		</Progress>
+				
+		<Progress progressname="HugemanClient.exe">
+			<File>weapon.dat</File>
+		</Progress>
+		
+		<Progress progressname="cgate.exe">
+			<File>launcher.exe</File>
+			<File>xul.dll</File>
+		</Progress>
+		
+		<Progress progressname="luvinia.exe">
+			<File>launcher.exe</File>
+			<File>patcher.exe</File>
+		</Progress>
+		
+		<Progress progressname="xyw.exe">
+			<File>gpatch.exe </File>
+			<File>XYWUpdate.exe</File>
+		</Progress>
+		
+		<Progress progressname="khan.exe">
+			<File>KhanError.exe</File>
+		</Progress>
+		
+		<Progress progressname="wof.exe">
+			<File>upself.exe</File>
+			<File>launch.exe</File>
+		</Progress>
+		
+		<Progress progressname="Game.exe">
+			<File>xyjonline.exe</File>
+			<File>update.exe</File>
+		</Progress>
+		
+		<Progress progressname="CWOnline.exe">
+			<File>CW.exe</File>
+			<File>libcurl.dll</File>
+		</Progress>
+		
+		<Progress progressname="CQOnline.exe">
+			<File>CQ.exe</File>
+			<File>engine.dll</File>
+		</Progress>
+		
+		<Progress progressname="QQBATT~1.exe">
+			<File>riched20.dll</File>
+			<File>QQGameAvatarShow.dll</File>
+		</Progress>
+		
+		<Progress progressname="JX3Client.exe">
+			<File>gameupdater.exe</File>
+			<File>DumpReport.exe</File>
+		</Progress>
+		
+		<Progress progressname="gameupdater.exe">
+			<File>JX3Client.exe</File>
+			<File>DumpReport.exe</File>
+		</Progress>
+		
+		<!--剑侠情缘网络版叁-->
+		<Progress progressname="JX3ClientX64.exe">
+			<File>DumpReport64.exe</File>
+			<File>mpak_downloaderX64.exe</File>
+		</Progress>	
+		
+		<!--穿越火线-->
+		<Progress progressname="crossfire.exe">
+			<File>launchcrossfire.exe</File>
+			<File>selfupdate.exe</File>
+		</Progress>
+				
+		<Progress progressname="7Fsanguo.exe">
+			<File>7FGame.exe</File>
+			<File>7fMedia.exe</File>
+		</Progress>
+		
+		<!--泡泡堂-->
+		<Progress progressname="NMCOSrv.exe">
+			<File>CA.exe</File>
+			<File>NewPatcher.exe</File>
+		</Progress>
+		
+		<!--时空裂痕-->
+		<Progress progressname="rift.exe">
+			<File>riftpatchchinese.exe</File>
+			<File>uninst.exe</File>
+		</Progress>
+		
+		<!--热血战队-->
+		<Progress progressname="rt.exe">
+			<File>undiffer.exe</File>
+			<File>rtgame.dll</File>
+		</Progress>
+		
+		<!--狐狸三国-->
+		<Progress progressname="FoxGame.exe">
+			<File>KproPaint.dll</File>
+			<File>msvcp71.dll</File>
+		</Progress>
+		
+		<!--九天神话-->
+		<Progress progressname="gameclient.exe">
+			<File>gameupdater.exe</File>
+			<File>DumpReport.exe</File>
+		</Progress>
+				
+		<!--麻辣江湖-->
+		<Progress progressname="game.exe">
+			<File>mjonline.exe</File>
+			<File>unins000.exe</File>
+		</Progress>
+		
+		<!--混沌之门-->
+		<Progress progressname="HDOnline.exe">
+			<File>HDOnlineLauncher.exe</File>
+			<File>launcher.exe</File>
+		</Progress>
+		
+		<!--行星边际2-->
+		<Progress progressname="行星边际2.exe">
+			<File>PlanetSide2.exe</File>
+			<File>steam_api.dll</File>
+		</Progress>
+		
+        <!--大话红楼-->
+		<Progress progressname="DHHLClient.exe">
+			<File>Launcher.exe</File>
+			<File>Replaytool.exe</File>
+		</Progress>
+		
+		<!--桃园将星录-->
+		<Progress progressname="TGame.exe">
+			<File>UpdateDLLWrapper.dll</File>
+			<File>TErrorReport.exe</File>
+		</Progress>
+		
+		<!--反恐行动-->
+		<Progress progressname="TGame.exe">
+			<File>UpdateDLLWrapper.dll</File>
+			<File>TErrorReport.exe</File>
+		</Progress>
+		
+        <!--11对战平台-->
+		<Progress progressname="11Game.exe">
+			<File>11Update.exe</File>
+			<File>11homepage.exe</File>
+		</Progress>
+         
+        <!--中国游戏中心-->
+		<Progress progressname="iGame.exe">
+			<File>InstallFeedBack.exe</File>
+		</Progress>
+        
+		<!--QQ堂-->
+		<Progress progressname="Client.exe">
+			<File>NetCenter.dll</File>
+		</Progress>
+        
+        <!--英雄岛-->
+		<Progress progressname="GameNew.exe">
+			<File>UpdateOnline.exe</File>
+            <File>UpdateHelper.exe</File>
+		</Progress>
+		
+         <!--洛奇英雄传-->
+		<Progress progressname="heroes.exe">
+			<File>HeroesLauncher.exe</File>
+            <File>_chn_AdBalloonExt.exe</File>
+		</Progress>
+		
+        <!--QQ幻想-->
+		<Progress progressname="qqfo.exe">
+			<File>foplayer.exe</File>
+            <File>SSOCommon.dll</File>
+		</Progress>
+
+        <!--完美世界-->
+		<Progress progressname="elementclient.exe">
+			<File>dxwebsetup.exe</File>
+			<File>patcher.exe</File>
+		</Progress>
+		
+         <!--枪神纪-->
+		<Progress progressname="TPS.exe">
+			<File>vorbis.dll</File>
+			<File>vorbisenc.dll</File>
+		</Progress>
+		
+		<!--战地之王-->
+		<Progress progressname="AVA.exe">
+			<File>AwesomiumProcess.exe</File>
+			<File>Awesomium.dll</File>
+		</Progress>
+		
+		<!--天龙八部OL-->	
+		<Progress progressname="Game.exe">
+			<File>TLBBDownload.exe</File>
+			<File>AntiHiDetect.exe</File>
+		</Progress>
+		
+		<!--功夫英雄-->	
+		<Progress progressname="Client.exe">
+			<File>ApexFramework_x86.dll</File>
+			<File>APEX_Clothing_x86.dll</File>
+		</Progress>
+		
+		<Progress progressname="nyplatform.exe">
+			<File>updatepatch.exe</File>
+			<File>Ng.exe</File>
+		</Progress>
+		
+		<Progress progressname="PlayNCLauncher.exe">
+			<File>bin32\aion.bin</File>
+		</Progress>
+		
+		<Progress progressname="LaTaleClient.exe">
+			<File>LaTaleLauncher.exe</File>
+			<File>LataleAdv.exe</File>
+		</Progress>
+		
+		<Progress progressname="Happypets.exe">
+			<File>play.exe</File>
+			<File>TimeDelay.exe</File>
+		</Progress>
+		
+		<Progress progressname="Clinet.exe">
+			<File>QQTLiveUpdate.exe</File>
+		</Progress>
+		
+		<Progress progressname="XjlGame.exe">
+			<File>UpdataTool.exe</File>
+			<File>DesktopPetApp.exe</File>
+		</Progress>
+		
+		<!--寻仙-->	
+		<Progress progressname="tty3d.exe">
+			<File>tc0001.dat</File>
+			<File>tenparty.dat</File>
+		</Progress>
+		
+		<!--剑灵-->	
+		<Progress progressname="Launcher.exe">
+			<File>assistant.exe</File>
+			<File>bugreport.exe</File>
+		</Progress>
+		
+		<!--斗破苍穹OL-->	
+		<Progress progressname="Game.exe">
+			<File>DPCQBrowser.exe</File>
+			<File>Download.exe</File>
+		</Progress>
+		
+		<Progress progressname="GOnline.exe">
+			<File>GUpdate_CHINA.exe</File>
+		</Progress>
+		
+		<Progress progressname="NowLoad.exe">
+			<File>StoneAge2.exe</File>
+		</Progress>
+        
+        <Progress progressname="FSOnline3.exe">
+			<File>Game.exe</File>
+			<File>Engine.dll</File>
+		</Progress>
+		
+		<Progress progressname="FF2online.exe">
+			<File>FF2Client.exe</File>
+			<File>GameLoader.exe</File>
+		</Progress>
+		
+		<Progress progressname="cdcgames.exe">
+			<File>Client.exe</File>
+			<File>mfc71.dll</File>
+		</Progress>
+		
+		<!--大唐无双2-->
+		<Progress progressname="GacRunner.dll">
+			<File>dtws2.exe</File>
+		</Progress>
+
+		<!-- 英雄联盟 -->
+		<Progress progressname="LolClient.exe">
+			<File>..\TCLS\dbghelp.dll</File>
+		</Progress>
+        
+		<!--九阴真经-->
+		<Progress progressname="fxgame.exe">
+			<File>fxres.exe</File>
+			<File>gamefetch.exe</File>
+		</Progress>
+        
+        <!-- DOTA2 -->
+		<Progress progressname="dota2launcher.exe">
+			<File>gameoverlayui.exe</File>
+			<File>steamerrorreporter.exe</File>
+		</Progress>
+        
+		<!-- QQ华夏 -->
+		<Progress progressname="QQhxgame.exe">
+			<File>UpdatePatch.exe</File>
+			<File>QQLogin.exe</File>
+		</Progress>
+		
+        <!-- 龍门客栈 -->
+		<Progress progressname="Client.exe">
+			<File>PhysX_9.10.0513_SystemSoftware.exe</File>
+			<File>vcredist_x86.exe</File>
+		</Progress>
+		
+		<!-- QQ飞车 -->
+		<Progress progressname="GameApp.exe">
+			<File>卸载QQ飞车.exe</File>
+			<File>QQSpeedRepairer.exe</File>
+		</Progress>
+		
+		<!-- 黑金 -->
+		<Progress progressname="fxgame.exe">
+			<File>bugreport.exe</File>
+			<File>snaileditornet.dll</File>
+		</Progress>
+		
+		<!-- 鹿鼎记 -->
+		<Progress progressname="CYouGame.exe">
+			<File>Launch.exe</File>
+			<File>Uninstall.exe</File>
+		</Progress>
+		
+		<!-- 大冲锋 -->
+		<Progress progressname="FinalCombat.exe">
+			<File>FCLoginMain.exe</File>
+			<File>XGLoginUpdater.exe</File>
+		</Progress>
+		
+		<!-- 神武 -->
+		<Progress progressname="swmain.dll">
+			<File>GamePlayer.exe</File>
+			<File>神武.exe</File>
+		</Progress>
+		
+		<!-- 神话2 -->
+		<Progress progressname="shenhua2.exe">
+			<File>D3DCompiler_43.dll</File>
+			<File>D3DX9_43.dll</File>
+		</Progress>
+		
+		<!-- 桃花源记 -->
+		<Progress progressname="yl.dll">
+			<File>launch.exe</File>
+			<File>thplayer.exe</File>
+		</Progress>
+		
+	    <!-- 末日重生-->
+		<Progress progressname="Client.exe">
+			<File>Cool3D.dll</File>
+			<File>vEngine.dll</File>
+		</Progress>
+		
+        <!-- SD敢达Online -->
+		<Progress progressname="GOnline.exe">
+			<File>GUpdate_CHINA.exe</File>
+			<File>SDGundamCN.ini</File>
+		</Progress>
+
+	    <!-- 天下3 -->
+		<Progress progressname="tw2.exe">
+			<File>UrlLoader.exe</File>
+			<File>MusicTools.exe</File>
+		</Progress>
+        
+        <!-- 泡泡战士 -->
+		<Progress progressname="BubbleFighter.exe">
+			<File>launcher.exe</File>
+			<File>GameWidget.dll</File>
+		</Progress>
+        
+		<!-- 武林外传.小六巡夜 -->
+		<Progress progressname="elementclient.exe">
+			<File>physxloader.dll</File>
+		</Progress>
+        
+		<!-- QQ自由幻想 -->
+		<Progress progressname="qqffo.exe">
+			<File>QQDL.exe</File>
+		</Progress>
+        
+		<!-- 街头篮球 -->
+		<Progress progressname="FreeStyle.exe">
+			<File>FSBox.exe</File>
+			<File>d3dx9_30.dll</File>
+		</Progress>
+
+		<!-- 泡泡游戏大厅 -->
+		<Progress progressname="popogame.exe">
+			<File>boost.exe</File>
+			<File>gamever.dll</File>
+		</Progress>
+        
+		<!--QQ仙境 -->
+		<Progress progressname="NClient.exe">
+			<File>NpSlayer.dll</File>
+			<File>RS.dll</File>
+		</Progress>
+		
+		<!--QQ炫舞-->
+		<Progress progressname="ui_launch_dx_bak.exe">
+			<File>base_util.dll</File>
+			<File>client_ui_dx.dll</File>
+		</Progress>
+		
+		<!--QQ炫舞2-->
+		<Progress progressname="qqx52_game.exe">
+			<File>gamemodule.dll</File>
+			<File>ui_launch_dx.exe</File>
+		</Progress>
+		
+        <!--QQ炫舞2-->
+		<Progress progressname="qq炫舞.exe">
+			<File>loader.exe</File>
+			<File>qqdancerupdate.exe</File>
+		</Progress>
+		
+		<!--神仙传2-->
+		<Progress progressname="Game.exe">
+			<File>dbghelp.dll</File>
+		</Progress>
+		
+		<!--QQ仙灵-->
+		<Progress progressname="QQ仙灵.exe">
+			<File>QQXLRender.exe</File>
+		</Progress>
+        
+		<!--EVE Online-->
+		<Progress progressname="exefile.exe">
+			<File>ccpBrowser.exe</File>
+		</Progress>
+        
+		<!--9377烈焰-->
+		<Progress progressname="Logger.exe">
+			<File>LieYan.dll</File>	
+			<File>uninst.exe</File>
+		</Progress>
+        
+		<!--新水浒Q传-->
+		<Progress progressname="Game.exe">
+			<File>CYHallInst.exe</File>
+		</Progress>
+        
+		<!--武魂-->
+		<Progress progressname="Wuhun.dll">
+			<File>fmodex.dll</File>
+			<File>fmodexp.dll</File>
+		</Progress>
+        
+        <!--仙境传说-->
+		<Progress progressname="ragexe.exe">
+			<File>ROStarter.exe</File>
+			<File>msvcr90.dll</File>
+		</Progress>
+        
+		<!--大话西游3-->
+		<Progress progressname="xymain.bin">
+			<File>X3launch.exe</File>
+		</Progress>
+        
+        <!--反恐精英Online-->
+		<Progress progressname="cstrike-online.exe">
+			<File>CSOLauncher.exe</File>
+		</Progress>
+        
+        <!--幻想大陆-->
+		<Progress progressname="FEzero_Client.exe">
+			<File>Patcher.exe</File>
+		</Progress>
+        
+        <!--QQ西游-->
+		<Progress progressname="QY.exe">
+			<File>QQ西游卸载.exe</File>
+		</Progress>
+        
+		<!--倩女幽魂2Online-->
+		<Progress progressname="GacRunner.exe">
+			<File>d3dx9_35.dll</File>
+			<File>dbghelp.dll</File>
+		</Progress>
+		
+		<!--跑跑卡丁车-->
+		<Progress progressname="NMService.exe">
+			<File>KartRecovery.exe</File>
+			<File>KartRider.exe</File>
+		</Progress>
+		
+        <!--沃尔学院-->
+		<Progress progressname="WizardGraphicalClient.exe">
+			<File>mss32.dll</File>
+			<File>mss32midi.dll</File>
+		</Progress>
+
+		<!--51炫舞-->
+		<Progress progressname="DMZ.exe">
+			<File>gpeng.dll</File>
+			<File>gpkt.dll</File>
+		</Progress>
+
+		<!--梦三国-->
+		<Progress progressname="MSango.bin">
+			<File>PathFinder.dll</File>
+			<File>pipFactory.dll</File>
+		</Progress>
+
+		<!--QQ音速-->
+		<Progress progressname="Game.exe">
+			<File>QQLauncher.exe</File>
+		</Progress>
+		
+        <!--全球计划-->
+		<Progress progressname="GlobalAgenda.exe">
+			<File>libresample.dll</File>
+		</Progress>
+		
+		<!--新梦幻古龙-->
+		<Progress progressname="QGLPU.bin">
+			<File>d3dx9_32.dll</File>
+		</Progress>
+		
+		<!--圣道传奇-->
+		<Progress progressname="SDGame.exe">
+			<File>vorbis.dll</File>
+			<File>weiboagent.dll</File>
+		</Progress>
+		
+		<!--轩辕传奇-->
+		<Progress progressname="XYClient.exe">
+			<File>xyinst.dll</File>
+			<File>XCrashRecover.exe</File>
+		</Progress>
+
+		<!--艾尔之光-->
+		<Progress progressname="x2.exe">
+			<File>xapofx1_5.dll</File>
+			<File>xaudio2_7.dll</File>
+		</Progress>
+
+		<!--神雕侠侣-->
+		<Progress progressname="patcher.exe">
+			<File>inetutils.dll</File>
+			<File>repair.exe</File>
+		</Progress>
+		
+		<!--魔兽世界 5.0 熊猫人之谜-->
+		<Progress progressname="Wow.exe">
+			<File>Battle.net.dll</File>
+			<File>divxdecoder.dll</File>
+		</Progress>
+		
+		<!--魔兽世界 5.0 熊猫人之谜-->
+		<Progress progressname="Wow-64.exe">
+			<File>Battle.net.dll</File>
+			<File>divxdecoder.dll</File>
+		</Progress>
+
+		<!--月影传说-->
+		<Progress progressname="Moon.exe">
+			<File>MoonSetting.exe</File>
+			<File>MoonUpdater.exe</File>
+		</Progress>
+	
+		<!--坦克世界-->
+		<Progress progressname="WorldOfTanks.exe">
+			<File>vivoxoal.dll</File>
+			<File>vivoxplatform.dll</File>
+		</Progress>           
+      		<Progress progressname="GacRunner.exe">
+			<File>VideoRecord.dll</File>
+			<File>HelperBrowser.exe</File>
+		</Progress>
+        
+		<!--倩女幽魂Online-->
+		<Progress progressname="GacRunner.exe">
+			<File>VideoRecord.dll</File>
+			<File>HelperBrowser.exe</File>
+		</Progress>
+		
+	    <!--迅雷远征、远征Online梦想版-->
+		<Progress progressname="Game.exe">
+			<File>..\..\远征Online.exe</File>
+		</Progress>
+        
+		<!--逆战-->
+		<Progress progressname="TGame.exe">
+			<File>TenSLX.dll</File>
+			<File>TerSafe.dll</File>
+		</Progress>
+		
+        <!--剑舞·逍遥江湖微端-->
+		<Progress progressname="ClientX86.exe">
+			<File>UpdaterX86.exe</File>
+			<File>剑舞·逍遥江湖.exe</File>
+		</Progress>
+		<!--黎明之光微端-->
+		<Progress progressname="Webloader.exe">
+			<File>WebLauncher.exe</File>
+		</Progress>
+
+		<!--黎明之光-->
+		<Progress progressname="Daybreak.bin">
+			<File>DBLauncher.exe</File>
+		</Progress>
+
+		<!--星晨变-->
+		<Progress progressname="XCB.dat">
+			<File>AutoPatch.exe</File>
+		</Progress>
+        
+        <!--劲舞团-->
+		<Progress progressname="Audition.exe">
+			<File>jJWT.exe</File>
+			<File>TaskKeyHookCN.dll</File>
+		</Progress>
+		
+		<!--NBA2K online-->
+		<Progress progressname="NBA2KOnline.exe">
+			<File>VideoAdjust.exe</File>
+			<File>DiagTool.exe</File>
+		</Progress>		
+
+		<!--JJ比赛-->
+		<Progress progressname="TKLobby.exe">
+			<File>TKCltNet.exe</File>
+		</Progress>						
+		
+	    <!--生化战场-登录程序-->
+		<Progress progressname="Client.exe">
+			<File>TPatcher.exe</File>
+		</Progress>
+
+		<!--生化战场-游戏进程-->
+		<Progress progressname="WarOfZombie.exe">
+			<File>TenTcls.dll</File>
+			<File>TerSafe.dll</File>
+		</Progress>
+
+		<Progress progressname="patchupdate.exe">
+			<File>uninst.exe</File>
+		</Progress>
+		
+		<Progress progressname="patchupdate.exe">
+			<File>dudu\dudu.exe</File>
+		</Progress>
+		
+		<Progress progressname="patchupdate.exe">
+			<File>patchsetup.ini</File>
+		</Progress>		
+		
+		<Progress progressname="patchupdate.exe">
+			<File>packrepair.exe</File>
+		</Progress>
+
+		<Progress progressname="GameLaunch.exe">
+			<File>远征Online.exe</File>
+		</Progress>
+		
+		<Progress progressname="Jx2wzGame.exe">
+			<File>Jx2wzOnline.exe</File>
+		</Progress>
+		
+		<!--诺亚传说-->
+		<Progress progressname="NYCSClient.exe">
+			<File>NycsDownLoad.exe</File>
+		</Progress>
+		
+		<Progress progressname="bo.exe">
+			<File>boOnline.exe</File>
+		</Progress>
+		
+		<!--传奇世界Ⅱ-->
+		<Progress progressname="woool.dat">
+			<File>wooolII.exe</File>	
+            <File>wooolcfg.exe</File>			
+		</Progress>
+		
+		<!--传奇3-->
+		<Progress progressname="Mir3.dat">
+			<File>Mir3.exe</File>
+		</Progress>
+		
+		<!--凡人修仙传online-->
+		<Progress progressname="client.dat">
+			<File>fronline.exe</File>
+			<File>engine_pack.dll</File>
+		</Progress>
+        
+		<!--全球使命-->
+		<Progress progressname="MarsGame.exe">
+			<File>ErrReport.exe</File>
+			<File>d3dx9_43.dll</File>
+		</Progress>
+        
+		<!--远征Online梦想版-->
+		<Progress progressname="YZClient.exe">
+			<File>Game.exe</File>
+			<File>CrashReport.exe</File>
+		</Progress>
+
+		<!--通配-->
+		<Progress progressname="Game.exe">
+			<File>client.exe</File>
+		</Progress>	
+		
+		<!--热血江湖-->
+		<Progress progressname="Client.exe">
+			<File>yb_mem.dll</File>
+			<File>yb_sync.dll</File>
+		</Progress>
+
+		<!--QQ游戏大厅-->
+		<Progress progressname="QQGameHall.exe" wndname="QQ游戏">
+			<File>QQGame.exe</File>
+			<File>QQGameDl.exe</File>
+		</Progress>
+		
+		<!--三国杀online-->
+		<Progress progressname="三国杀online桌面版.exe">
+			<File>SanGuoShaAir.swf</File>
+		</Progress>
+		
+		<!--斗战神-->
+		<Progress progressname="Asura.exe">
+			<File>bugreport.exe</File>
+			<File>TenProxy.dll</File>
+		</Progress>
+
+		<!--魔兽争霸3-->
+		<Progress progressname="war3.exe">
+			<File>Frozen Throne.exe</File>
+			<File>BNUpdate.exe</File>
+		</Progress>
+		
+		<!--古剑奇谭二-->
+		<Progress progressname="GuJian2.exe">
+			<File>GameLauncher.exe</File>
+		</Progress>
+		
+		<!--愤怒的小鸟：太空版-->
+		<Progress progressname="AngryBirdsSpace.exe">
+			<File>config.lua</File>
+		</Progress>
+		
+		<!--荣誉勋章：战士-->
+		<Progress progressname="MOHW.exe">
+			<File>Launcher.exe</File>
+			<File>Engine.BuildInfo.MOHW_Win32_Retail_dll.dll</File>
+		</Progress>
+		
+		<!--格林机枪-->
+		<Progress progressname="GatlingGears.exe">
+			<File>\\Core\\EACoreServer.exe</File>
+		</Progress>
+		
+		<!--火炬之光-->
+		<Progress progressname="Torchlight.exe">
+			<File>uninstall.exe</File>
+		</Progress>
+		
+		<!--极品飞车9：无间追踪-->
+		<Progress progressname="speed.exe">
+			<File>eauninstall.exe</File>
+		</Progress>
+		
+		<!--虐杀原型-->
+		<Progress progressname="prototypef.exe">
+			<File>prototypeenginef.dll</File>
+			<File>binkw32.dll</File>
+		</Progress>
+		
+		<!--实况足球2013-->
+		<Progress progressname="pes2013.exe">
+			<File>settings.exe</File>
+		</Progress>
+		
+		<!--战地2-->
+		<Progress progressname="BF2.exe">
+			<File>bf2_w32ded.exe</File>
+		</Progress>
+		
+		<!--使命召唤：现代战争-->
+		<Progress progressname="iw3sp.exe">
+			<File>iw3mp.exe</File>
+		</Progress>
+		
+		<!--使命召唤：战争世界-->
+		<Progress progressname="CoDWaW.exe">
+			<File>CoDWaWmp.exe</File>
+		</Progress>
+		
+		<!--使命召唤：现代战争2-->
+		<Progress progressname="iw4sp.exe">
+			<File>iw4mp.exe</File>
+		</Progress>
+		
+		<!--使命召唤：黑色行动-->
+		<Progress progressname="BlackOps.exe">
+			<File>BlackOpsMP.exe</File>
+		</Progress>
+		
+		<!--使命召唤：现代战争3-->
+		<Progress progressname="iw5sp.exe">
+			<File>iw5mp.exe</File>
+		</Progress>
+		
+		<!--使命召唤：黑色行动2-->
+		<Progress progressname="t6sp.exe">
+			<File>t6mp.exe</File>
+		</Progress>
+		
+		<!--使命召唤：现代战争-->
+		<Progress progressname="iw3mp.exe">
+			<File>iw3sp.exe</File>
+		</Progress>	
+		
+		<!--使命召唤：战争世界-->
+		<Progress progressname="CoDWaWmp.exe">
+			<File>CoDWaW.exe</File>
+		</Progress>	
+		
+		<!--使命召唤：现代战争2-->
+		<Progress progressname="iw4mp.exe">
+			<File>iw4sp.exe</File>
+		</Progress>	
+		
+		<!--使命召唤：黑色行动-->
+		<Progress progressname="BlackOpsMP.exe">
+			<File>BlackOps.exe</File>
+		</Progress>	
+		
+		<!--使命召唤：现代战争3-->
+		<Progress progressname="iw5mp.exe">
+			<File>iw5sp.exe</File>
+		</Progress>	
+		
+		<!--使命召唤：黑色行动2-->
+		<Progress progressname="t6mp.exe">
+			<File>t6sp.exe</File>
+		</Progress>
+		
+		<!--反恐精英-->
+		<Progress progressname="cstrike.exe">
+			<File>hlds.exe</File>
+		</Progress>
+		
+		<!--NBA 2K13-->
+		<Progress progressname="nba2k13.exe">
+			<File>players.bin</File>
+			<File>teams.bin</File>
+		</Progress>	
+		
+		<!--NBA 2K12-->
+		<Progress progressname="nba2k12.exe">
+			<File>players.bin</File>
+			<File>teams.bin</File>
+		</Progress>	
+		
+		<!--NBA 2K11-->
+		<Progress progressname="nba2k11.exe">
+			<File>players.bin</File>
+			<File>teams.bin</File>
+		</Progress>		
+
+		<!--NBA 2K10-->
+		<Progress progressname="nba2k10.exe">
+			<File>players.bin</File>
+			<File>teams.bin</File>
+		</Progress>	
+		
+		<!--NBA 2K9-->
+		<Progress progressname="nba2k9.exe">
+			<File>players.bin</File>
+			<File>teams.bin</File>
+		</Progress>	
+		
+		<!--古墓丽影8-->
+		<Progress progressname="tru.exe">
+			<File>uninst.exe</File>
+		</Progress>	
+		
+		<!--古墓丽影9-->
+		<Progress progressname="TombRaider.exe">
+			<File>binkw32.dll</File>
+		</Progress>	
+		
+		<!--杀手5：赦免-->
+		<Progress progressname="HMA.exe">
+			<File>binkw32.dll</File>
+		</Progress>	
+		
+		<!--DmC：鬼泣-->
+		<Progress progressname="DMC-DevilMayCry.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+		
+		<!--三国群英传7-->
+		<Progress progressname="SANGO7.BIN">
+			<File>SG7.exe</File>
+		</Progress>		
+		
+		<!--暗黑破坏神2-->
+		<Progress progressname="DIABLO II.exe">
+			<File>BNUpdate.exe</File>
+		</Progress>		
+		
+		<!--生化危机6-->
+		<Progress progressname="BH6.exe">
+			<File>steam_api.dll</File>
+		</Progress>	
+		
+		<!--战地3-->
+		<Progress progressname="bf3.exe">
+			<File>Battlefield 3_regsetup.exe</File>
+		</Progress>	
+		
+		<!--轩辕剑陆：凤凌长空千载云-->
+		<Progress progressname="SWD6.exe">
+			<File>Revoke.exe</File>
+		</Progress>	
+		
+		<!--轩辕剑：云之遥-->
+		<Progress progressname="SwdCF.exe">
+			<File>SwdPatch.exe</File>
+		</Progress>	
+		
+		<!--英雄传说：零之轨迹-->
+		<Progress progressname="ED_ZERO.exe">
+			<File>Config.exe</File>
+		</Progress>	
+		
+		<!--孤岛惊魂3-->
+		<Progress progressname="farcry3.exe">
+			<File>farcry3_d3d11.exe</File>
+		</Progress>	
+		
+		<!--孤岛危机3-->
+		<Progress progressname="Crysis3.exe">
+			<File>CryEA.dll</File>
+			<File>CryD3DCompilerStub.dll</File>
+		</Progress>	
+		
+		<!--上古卷轴5：天际-->
+		<Progress progressname="TESV.exe">
+			<File>SkyrimLauncher.exe</File>
+		</Progress>	
+		
+		<!--仙剑奇侠传4-->
+		<Progress progressname="PAL4.exe">
+			<File>Config.exe</File>
+		</Progress>	
+		
+		<!--仙剑奇侠传5-->
+		<Progress progressname="Pal5.exe">
+			<File>config.exe</File>
+		</Progress>	
+		
+		<!--仙剑奇侠传5 前传-->
+		<Progress progressname="Pal5Q.exe">
+			<File>config.exe</File>
+		</Progress>	
+		
+		<!--古剑奇谭-->
+		<Progress progressname="GuJian.exe">
+			<File>launcher.exe</File>
+		</Progress>	
+		
+		<!--水果忍者-->
+		<Progress progressname="FruitNinja.exe">
+			<File>freetype6.dll</File>
+		</Progress>	
+		
+		<!--植物大战僵尸-->
+		<Progress progressname="PlantsVsZombies.exe">
+			<File>PopUninstall.exe</File>
+		</Progress>	
+		
+		<!--植物大战僵尸-->
+		<Progress progressname="PlantsVsZombies.exe">
+			<File>bass.dll</File>
+		</Progress>	
+		
+		<!--火炬之光2-->
+		<Progress progressname="Torchlight2.exe">
+			<File>ModLauncher.exe</File>
+		</Progress>	
+
+		<!--双星物语2-->
+		<Progress progressname="ZWEI2.exe">
+			<File>config.exe</File>
+		</Progress>	
+
+		<!--保卫萝卜-->
+		<Progress progressname="Luobo.exe">
+			<File>zlib1.dll</File>
+		</Progress>	
+
+		<!--愤怒的小鸟：季节版-->
+		<Progress progressname="AngryBirdsSeasons.exe">
+			<File>config.lua</File>
+		</Progress>	
+		
+		<!--愤怒的小鸟：季节版-->
+		<Progress progressname="AngryBirdsSeasonsFull.exe">
+			<File>config.lua</File>
+		</Progress>		
+
+		<!--愤怒的小鸟：星球大战-->
+		<Progress progressname="AngryBirdsStarWars.exe">
+			<File>config.lua</File>
+		</Progress>	
+
+		<!--愤怒的小鸟：捣蛋猪-->
+		<Progress progressname="BadPiggies.exe">
+			<File>Patch.exe</File>
+		</Progress>			
+		
+		<!--极品飞车14：热力追踪3-->
+		<Progress progressname="NFS14.exe">
+			<File>Launcher.exe</File>
+		</Progress>	
+
+		<!--虐杀原形2-->
+		<Progress progressname="prototype2.exe">
+			<File>prototype2engine.dll</File>
+		</Progress>	
+
+		<!--nebula模拟器-->
+		<Progress progressname="nebula.exe">
+			<File>nebulaconfig.exe</File>
+		</Progress>	
+
+		<!--WinKawaks模拟器-->
+		<Progress progressname="WinKawaks.exe">
+			<File>kailleraclient.dll</File>
+		</Progress>	
+
+		<!--热血无赖-->
+		<Progress progressname="HKShip.exe">
+			<File>Launcher.exe</File>
+		</Progress>		
+
+		<!--反恐精英：起源 -->
+		<Progress progressname="hl2.exe">
+			<File>srcds.exe</File>
+		</Progress>	
+
+		<!--孢子-->
+		<Progress progressname="SporeApp.exe">
+			<File>paul.dll</File>
+		</Progress>			
+	
+		<!--三国志9-->
+		<Progress progressname="San9.exe">
+			<File>Config.exe</File>
+		</Progress>		
+		
+		<!--三国志9威力加强版-->
+		<Progress progressname="San9PK.exe">
+			<File>Config.exe</File>
+		</Progress>		
+		
+		<!--三国志10-->
+		<Progress progressname="San10.exe">
+			<File>Config.exe</File>
+		</Progress>		
+		
+		<!--三国志10威力加强版-->
+		<Progress progressname="San10PK.exe">
+			<File>CONFIGPK.EXE</File>
+		</Progress>	
+		
+		<!--三国志11-->
+		<Progress progressname="San11.exe">
+			<File>S11Launcher.exe</File>
+		</Progress>	
+
+		<!--三国志11威力加强版-->
+		<Progress progressname="san11pk.exe">
+			<File>S11PKLauncher.exe</File>
+		</Progress>		
+
+		<!--三国志12-->
+		<Progress progressname="San12.exe">
+			<File>San12Launcher.exe</File>
+		</Progress>		
+		
+		<!--三国志12威力加强版-->
+		<Progress progressname="San12PK.exe">
+			<File>San12PKLauncher.exe</File>
+		</Progress>	
+
+		<!--恶魔城：暗影王子-->
+		<Progress progressname="CastlevaniaLoSUE.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--细胞分裂6：黑名单-->
+		<Progress progressname="Blacklist_game.exe">
+			<File>Blacklist_DX11_game.exe</File>
+		</Progress>		
+
+		<!--求生之路-->
+		<Progress progressname="hl2.exe">
+			<File>left4dead.exe</File>
+		</Progress>			
+		
+		<!--求生之路2-->
+		<Progress progressname="left4dead2.exe">
+			<File>srcds.exe</File>
+		</Progress>	
+
+		<!--求生之路2-->
+		<Progress progressname="left4dead2.exe">
+			<File>\\bin\\Steam.exe</File>
+		</Progress>			
+
+		<!--金山打字游戏2010-->
+		<Progress progressname="TypeGame.exe">
+			<File>spssvc.exe</File>
+		</Progress>		
+
+		<!--红色警戒2-->
+		<Progress progressname="Game.exe">
+			<File>Ra2.exe</File>
+			<File>SetupReg.exe</File>
+		</Progress>		
+
+		<!--红色警戒3-->
+		<Progress progressname="ra3_1.0.game">
+			<File>winui.dll</File>
+		</Progress>		
+
+		<!--红色警戒 3：起义时刻-->
+		<Progress progressname="ra3ep1_1.0.game">
+			<File>winui.dll</File>
+		</Progress>		
+
+		<!--连连看5-->
+		<Progress progressname="LinLink5.exe">
+			<File>bass.dll</File>
+		</Progress>		
+
+		<!--连连看4-->
+		<Progress progressname="LinLink.exe">
+			<File>SkinMagic.dll</File>
+		</Progress>		
+
+		<!--连连看3-->
+		<Progress progressname="Kawai.EXE">
+			<File>proScore.dll</File>
+		</Progress>		
+
+		<!--祖玛-->
+		<Progress progressname="Zuma.exe">
+			<File>bass.dll</File>
+		</Progress>		
+		
+		<!--祖玛-->
+		<Progress progressname="game.exe">
+			<File>bass.dll</File>
+		</Progress>	
+		
+		<!--祖玛-->
+		<Progress progressname="Zuma Deluxe.exe">
+			<File>bass.dll</File>
+		</Progress>	
+
+		<!--大富翁4-->
+		<Progress progressname="rich4.exe">
+			<File>Data.mkf</File>
+		</Progress>		
+
+		<!--大富翁5-->
+		<Progress progressname="Rich5Main.exe">
+			<File>Rich5.exe</File>
+		</Progress>		
+
+		<!--大富翁6-->
+		<Progress progressname="rich6.TMP0">
+			<File>rich6.exe</File>
+		</Progress>		
+
+		<!--大富翁7-->
+		<Progress progressname="R7plus.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--大富翁8-->
+		<Progress progressname="richman8.dat">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--大富翁2012-->
+		<Progress progressname="Monopolywin.exe">
+			<File>PlayGame.exe</File>
+		</Progress>		
+
+		<!--大鱼吃小鱼2-->
+		<Progress progressname="FeedingFrenzyTwo.exe">
+			<File>bass.dll</File>
+		</Progress>		
+
+		<!--宝石迷阵-->
+		<Progress progressname="WinBej.exe">
+			<File>bass.dll</File>
+		</Progress>		
+
+		<!--宝石迷阵2：豪华版-->
+		<Progress progressname="Bejeweled_2_Deluxe.exe">
+			<File>bass.dll</File>
+		</Progress>		
+
+		<!--宝石迷阵3-->
+		<Progress progressname="Bejeweled3.exe">
+			<File>bass.dll</File>
+		</Progress>		
+
+		<!--宝石迷阵：闪电风暴-->
+		<Progress progressname="Bejeweled Blitz.exe">
+			<File>bass.dll</File>
+		</Progress>		
+
+		<!--暴力摩托-->
+		<Progress progressname="demorash.exe">
+			<File>aweman32.dll</File>
+		</Progress>		
+
+		<!--暴力摩托-->
+		<Progress progressname="Roadrash2004.exe">
+			<File>AWEMan32.dll</File>
+		</Progress>		
+
+		<!--暴力机车-->
+		<Progress progressname="Jacked.exe">
+			<File>\\data\\jacked.dat</File>
+		</Progress>		
+
+		<!--星际争霸-->
+		<Progress progressname="Starcraft.exe">
+			<File>BNUpdate.exe</File>
+		</Progress>
+
+		<!--新剑侠情缘-->
+		<Progress progressname="新剑侠情缘.exe">
+			<File>Sword.dll</File>
+		</Progress>		
+
+		<!--新仙剑奇侠传-->
+		<Progress progressname="Palgame.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--实况足球2014-->
+		<Progress progressname="pes2014.exe">
+			<File>settings.exe</File>
+		</Progress>		
+
+		<!--FIFA 13-->
+		<Progress progressname="fifa13.exe">
+			<File>\\fifasetup\\fifaconfig.exe</File>
+		</Progress>		
+
+		<!--蒙特祖玛的宝藏-->
+		<Progress progressname="TheTreasuresofMontezuma.exe">
+			<File>bass.dll</File>
+		</Progress>		
+
+		<!--蒙特祖玛的宝藏2-->
+		<Progress progressname="TreasuresOfMontezuma2.exe">
+			<File>bass.dll</File>
+		</Progress>		
+
+		<!--蒙特祖玛的宝藏3-->
+		<Progress progressname="TreasuresOfMontezuma3.exe">
+			<File>TreasuresOfMontezuma3.wrp.exe</File>
+		</Progress>		
+
+		<!--蒙特祖玛的宝藏4-->
+		<Progress progressname="zuma.exe">
+			<File>TheTreasuresOfMontezuma4.exe</File>
+		</Progress>		
+
+		<!--仙剑奇侠传3-->
+		<Progress progressname="PAL3.exe">
+			<File>config.exe</File>
+		</Progress>	
+
+		<!--仙剑奇侠传3外传：问情篇-->
+		<Progress progressname="PAL3A.exe">
+			<File>config.exe</File>
+		</Progress>		
+
+		<!--NBA 2K14-->
+		<Progress progressname="nba2k14.exe">
+			<File>players.bin</File>
+			<File>teams.bin</File>
+		</Progress>		
+
+		<!--愤怒的小鸟-->
+		<Progress progressname="AngryBirds.exe">
+			<File>config.lua</File>
+		</Progress>		
+
+		<!--愤怒的小鸟：里约大冒险-->
+		<Progress progressname="AngryBirdsRio.exe">
+			<File>config.lua</File>
+		</Progress>		
+
+		<!--生化危机4-->
+		<Progress progressname="game.dat">
+			<File>launcher.exe</File>
+		</Progress>		
+
+		<!--生化危机5-->
+		<Progress progressname="RE5DX9.EXE">
+			<File>Launcher.exe</File>
+		</Progress>		
+
+		<!--生化危机5-->
+		<Progress progressname="RE5DX10.EXE">
+			<File>Launcher.exe</File>
+		</Progress>		
+
+		<!--生化危机：启示录-->
+		<Progress progressname="rerev.exe">
+			<File>steam_api.dll</File>
+		</Progress>		
+
+		<!--生化危机：浣熊市行动-->
+		<Progress progressname="RaccoonCity.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--拳皇13-->
+		<Progress progressname="game.exe">
+			<File>typex_config.exe</File>
+		</Progress>		
+
+		<!--真三国无双3：Hyper-->
+		<Progress progressname="Shin Sangokumusou 3.exe">
+			<File>Launcher.exe</File>
+		</Progress>		
+
+		<!--真三国无双4：特别版-->
+		<Progress progressname="SM4_WIN.exe">
+			<File>d3dx9_27.dll</File>
+		</Progress>		
+
+		<!--真三国无双5-->
+		<Progress progressname="SM5_WIN.exe">
+			<File>LINKDATA_T.BIN</File>
+		</Progress>		
+
+		<!--真三国无双6：猛将传-->
+		<Progress progressname="SM6.exe">
+			<File>SM6Config.exe</File>
+		</Progress>		
+
+		<!--战国无双2-->
+		<Progress progressname="SW2.exe">
+			<File>\\linkdata\\LINK_SEBANK_TWN</File>
+		</Progress>		
+
+		<!--吃豆人冠军版 DX+-->
+		<Progress progressname="PAC-MAN.exe">
+			<File>steam_api.dll</File>
+		</Progress>		
+
+		<!--无双大蛇-->
+		<Progress progressname="OROCHI_cn.exe">
+			<File>OROCHI.exe</File>
+		</Progress>	
+		
+		<!--无双大蛇Z-->
+		<Progress progressname="OROCHI_Z_TC.exe">
+			<File>LINKDATA1.BIN</File>
+		</Progress>		
+
+		<!--极品飞车17：最高通缉-->
+		<Progress progressname="NFS13.exe">
+			<File>NFS13.par</File>
+		</Progress>		
+
+		<!--极品飞车16：亡命狂飙-->
+		<Progress progressname="Need For Speed The Run.exe">
+			<File>Need For Speed The Run.par</File>
+		</Progress>		
+
+		<!--极品飞车15：变速2-->
+		<Progress progressname="SHIFT2U.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--极品飞车13：变速-->
+		<Progress progressname="shift.bin">
+			<File>shift.exe</File>
+		</Progress>		
+
+		<!--极品飞车12：无间风云-->
+		<Progress progressname="nfs.exe">
+			<File>paul.dll</File>
+		</Progress>		
+
+		<!--极品飞车11：街头狂飙-->
+		<Progress progressname="nfs.exe">
+			<File>server.dll</File>
+		</Progress>		
+
+		<!--极品飞车10：生死卡本谷-->
+		<Progress progressname="NFSC.exe">
+			<File>server.dll</File>
+		</Progress>		
+
+		<!--帝国时代-->
+		<Progress progressname="Empires.exe">
+			<File>language.dll</File>
+		</Progress>		
+
+		<!--帝国时代：罗马复兴-->
+		<Progress progressname="Empiresx.exe">
+			<File>languagex.dll</File>
+		</Progress>		
+
+		<!--帝国时代2-->
+		<Progress progressname="empires2.exe">
+			<File>language.dll</File>
+		</Progress>		
+
+		<!--帝国时代2：征服者-->
+		<Progress progressname="age2_x1.exe">
+			<File>language_x1.dll</File>
+		</Progress>		
+
+		<!--帝国时代3-->
+		<Progress progressname="age3.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--帝国时代3：酋长-->
+		<Progress progressname="age3x.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--帝国时代3：亚洲王朝-->
+		<Progress progressname="age3y.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--无主之地-->
+		<Progress progressname="Borderlands.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--无主之地2-->
+		<Progress progressname="Borderlands2.exe">
+			<File>binkw32.dll</File>
+		</Progress>		
+
+		<!--信长之野望13：天道-->
+		<Progress progressname="NOBU13.exe">
+			<File>N13Launcher.exe</File>
+		</Progress>		
+
+		<!--信长之野望13：天道威力加强版-->
+		<Progress progressname="NOBU13PK.EXE">
+			<File>N13LauncherPK.exe</File>
+		</Progress>		
+
+		<!--实况足球2012-->
+		<Progress progressname="pes2012.exe">
+			<File>settings.exe</File>
+		</Progress>	
+		
+		<!--实况足球2011-->
+		<Progress progressname="pes2011.exe">
+			<File>settings.exe</File>
+		</Progress>	
+		
+		<!--实况足球2010-->
+		<Progress progressname="pes2010.exe">
+			<File>settings.exe</File>
+		</Progress>	
+		
+		<!--实况足球2009-->
+		<Progress progressname="pes2009.exe">
+			<File>settings.exe</File>
+		</Progress>	
+		
+		<!--实况足球2008-->
+		<Progress progressname="PES2008.exe">
+			<File>settings.exe</File>
+		</Progress>	
+		
+		<!--实况足球2007-->
+		<Progress progressname="pes6.exe">
+			<File>settings.exe</File>
+		</Progress>	
+		
+		<!--三国群英传6-->
+		<Progress progressname="Sango6.exe">
+			<File>GameData.PCK</File>
+		</Progress>	
+		
+		<!--三国群英传5-->
+		<Progress progressname="Sango5.exe">
+			<File>GameData.PCK</File>
+		</Progress>	
+		
+		<!--祖玛的复仇-->
+		<Progress progressname="ZumasRevenge.exe">
+			<File>bass.dll</File>
+		</Progress>	
+		
+		<!--蒙特祖玛的诅咒-->
+		<Progress progressname="TheCurseOfMontezuma.wrp.exe">
+			<File>TheCurseOfMontezuma.exe</File>
+		</Progress>	
+		
+		<!--埃及祖玛-->
+		<Progress progressname="Luxor.exe">
+			<File>fmod.dll</File>
+		</Progress>	
+		
+		<!--埃及祖玛 HD-->
+		<Progress progressname="LUXOR HD.exe">
+			<File>fmodex.dll</File>
+		</Progress>	
+		
+		<!--埃及祖玛2-->
+		<Progress progressname="luxor2.exe">
+			<File>fmodex.dll</File>
+		</Progress>	
+		
+		<!--埃及祖玛2 HD-->
+		<Progress progressname="luxor_2_x86.exe">
+			<File>fmodex.dll</File>
+		</Progress>	
+		
+		<!--埃及祖玛3-->
+		<Progress progressname="Luxor3.exe">
+			<File>fmod.dll</File>
+		</Progress>	
+		
+		<!--埃及祖玛之探索永恒-->
+		<Progress progressname="LuxorQuestForTheAfterlife.exe">
+			<File>fmodex.dll</File>
+		</Progress>	
+		
+		<!--埃及祖玛5-->
+		<Progress progressname="Luxor - 5th Passage.exe">
+			<File>unins000.exe</File>
+		</Progress>	
+		
+		<!--埃及祖玛5-->
+		<Progress progressname="Luxor5.exe">
+			<File>uninst.exe</File>
+		</Progress>	
+		
+		<!--埃及祖玛之阿蒙神叛乱-->
+		<Progress progressname="Luxor AR.exe">
+			<File>fmod.dll</File>
+		</Progress>	
+		
+		<!--埃及祖玛之阿蒙神叛乱 HD-->
+		<Progress progressname="luxor_ar_hd_x86.exe">
+			<File>fmodex.dll</File>
+		</Progress>	
+
+		<!--火影忍者：究极风暴3完全爆发-->
+		<Progress progressname="NS3FB.exe">
+			<File>NS3FB_launcher.exe</File>
+		</Progress>	
+		
+		<!--愤怒的小鸟：星球大战2-->
+		<Progress progressname="AngryBirdsStarWarsII.exe">
+			<File>config.lua</File>
+		</Progress>		
+</GameConfig>

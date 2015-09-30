@@ -1,0 +1,1099 @@
+2015-01-21 16:09:55  DEBUG - found datalist
+2015-01-21 16:09:58  DEBUG - e:\kuaipan\study\code\python\tools\kcloudpop\data exists!
+2015-01-21 16:09:58  DEBUG - del e:\kuaipan\study\code\python\tools\kcloudpop\data
+2015-01-21 16:09:58  DEBUG - read config success
+2015-01-21 16:09:58  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:09:58  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:09:58  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\imd5.dat
+2015-01-21 16:09:58  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/imd5.dat
+2015-01-21 16:09:58  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:09:58  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\index.dat
+2015-01-21 16:09:58  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/index.dat
+2015-01-21 16:09:58  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:09:58  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:09:58  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\qllj_rcmdgame.dat
+2015-01-21 16:09:58  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/qllj_rcmdgame.dat
+2015-01-21 16:09:58  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:09:58  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:09:58  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\imd5.dat
+2015-01-21 16:09:58  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/imd5.dat
+2015-01-21 16:09:58  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:09:58  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\index.dat
+2015-01-21 16:09:58  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/index.dat
+2015-01-21 16:09:58  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:09:58  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:09:58  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\qllj_rcmdgame.dat
+2015-01-21 16:09:58  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/qllj_rcmdgame.dat
+2015-01-21 16:09:58  DEBUG - Finished download!
+2015-01-21 16:09:58  DEBUG - start compare files
+2015-01-21 16:10:36  DEBUG - found datalist
+2015-01-21 16:10:37  DEBUG - e:\kuaipan\study\code\python\tools\kcloudpop\data exists!
+2015-01-21 16:10:37  DEBUG - del e:\kuaipan\study\code\python\tools\kcloudpop\data
+2015-01-21 16:10:37  DEBUG - read config success
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:10:37  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\imd5.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/imd5.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\index.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/index.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_nourl.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_nourl.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_pull.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_pull.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_uselbpull.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_uselbpull.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\sekey_createdsksc.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/sekey_createdsksc.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_inst.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_inst.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_pull.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_pull.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:10:37  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:37  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:10:37  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:10:38  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\imd5.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/imd5.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\index.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/index.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_nourl.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_nourl.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_pull.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_pull.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_uselbpull.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_uselbpull.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\sekey_createdsksc.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/sekey_createdsksc.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_inst.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_inst.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_pull.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_pull.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:10:38  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:38  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:10:38  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:10:38  DEBUG - Finished download!
+2015-01-21 16:10:38  DEBUG - start compare files
+2015-01-21 16:10:43  DEBUG - found datalist
+2015-01-21 16:10:43  DEBUG - e:\kuaipan\study\code\python\tools\kcloudpop\data exists!
+2015-01-21 16:10:43  DEBUG - del e:\kuaipan\study\code\python\tools\kcloudpop\data
+2015-01-21 16:10:43  DEBUG - read config success
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:10:43  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\imd5.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/imd5.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\index.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/index.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_nourl.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_nourl.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_pull.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_pull.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_uselbpull.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_uselbpull.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\sekey_createdsksc.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/sekey_createdsksc.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:10:43  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:43  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:10:43  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_inst.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_inst.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_pull.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_pull.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:10:44  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\imd5.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/imd5.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\index.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/index.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_nourl.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_nourl.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_pull.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_pull.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_uselbpull.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_uselbpull.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\sekey_createdsksc.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/sekey_createdsksc.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:10:44  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:44  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_inst.dat
+2015-01-21 16:10:44  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_inst.dat
+2015-01-21 16:10:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_pull.dat
+2015-01-21 16:10:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_pull.dat
+2015-01-21 16:10:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:10:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:10:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:10:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:10:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:10:45  DEBUG - Finished download!
+2015-01-21 16:10:45  DEBUG - start compare files
+2015-01-21 16:11:00  DEBUG - found datalist
+2015-01-21 16:11:00  DEBUG - e:\kuaipan\study\code\python\tools\kcloudpop\data exists!
+2015-01-21 16:11:00  DEBUG - del e:\kuaipan\study\code\python\tools\kcloudpop\data
+2015-01-21 16:11:00  DEBUG - read config success
+2015-01-21 16:11:00  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:11:00  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:11:00  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\imd5.dat
+2015-01-21 16:11:00  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/imd5.dat
+2015-01-21 16:11:00  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:11:00  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\index.dat
+2015-01-21 16:11:00  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/index.dat
+2015-01-21 16:11:00  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:00  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:00  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:11:00  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:11:00  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:00  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb.dat
+2015-01-21 16:11:00  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_nourl.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_nourl.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_pull.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_pull.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_uselbpull.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_uselbpull.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\sekey_createdsksc.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/sekey_createdsksc.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_inst.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_inst.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_pull.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_pull.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:11:01  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\imd5.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/imd5.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\index.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/index.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:01  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:11:01  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:01  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_nourl.dat
+2015-01-21 16:11:01  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_nourl.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_pull.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_pull.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_uselbpull.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_uselbpull.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\sekey_createdsksc.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/sekey_createdsksc.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_inst.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_inst.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_pull.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_pull.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:11:02  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:11:02  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:11:02  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:11:02  DEBUG - Finished download!
+2015-01-21 16:11:02  DEBUG - start compare files
+2015-01-21 16:13:45  DEBUG - found datalist
+2015-01-21 16:13:45  DEBUG - e:\kuaipan\study\code\python\tools\kcloudpop\data exists!
+2015-01-21 16:13:45  DEBUG - del e:\kuaipan\study\code\python\tools\kcloudpop\data
+2015-01-21 16:13:45  DEBUG - read config success
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:13:45  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\imd5.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/imd5.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\index.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/index.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_nourl.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_nourl.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_pull.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_pull.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:13:45  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:45  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_uselbpull.dat
+2015-01-21 16:13:45  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_uselbpull.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\sekey_createdsksc.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/sekey_createdsksc.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_inst.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_inst.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_pull.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_pull.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:13:46  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\imd5.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/imd5.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\index.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/index.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:46  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_nourl.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_nourl.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_pull.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_pull.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:13:46  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:46  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:13:46  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_uselbpull.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_uselbpull.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\sekey_createdsksc.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/sekey_createdsksc.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_inst.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_inst.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_pull.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_pull.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:13:47  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:13:47  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:13:47  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:13:47  DEBUG - Finished download!
+2015-01-21 16:13:47  DEBUG - start compare files
+2015-01-21 16:14:10  DEBUG - found datalist
+2015-01-21 16:14:10  DEBUG - e:\kuaipan\study\code\python\tools\kcloudpop\data exists!
+2015-01-21 16:14:10  DEBUG - del e:\kuaipan\study\code\python\tools\kcloudpop\data
+2015-01-21 16:14:10  DEBUG - read config success
+2015-01-21 16:14:10  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:14:10  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:14:10  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\imd5.dat
+2015-01-21 16:14:10  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/imd5.dat
+2015-01-21 16:14:10  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:14:10  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\index.dat
+2015-01-21 16:14:10  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/index.dat
+2015-01-21 16:14:10  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:10  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:10  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:14:10  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:14:10  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:10  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb.dat
+2015-01-21 16:14:10  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb.dat
+2015-01-21 16:14:10  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:10  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:14:10  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:14:10  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:10  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:14:10  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:14:10  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:10  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_nourl.dat
+2015-01-21 16:14:10  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_nourl.dat
+2015-01-21 16:14:10  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:10  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_pull.dat
+2015-01-21 16:14:10  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_pull.dat
+2015-01-21 16:14:11  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:11  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:14:11  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:14:11  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:11  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:14:11  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:14:11  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:11  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:14:11  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:14:11  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:11  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:14:11  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:14:11  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:11  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:14:11  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:14:11  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:11  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_uselbpull.dat
+2015-01-21 16:14:11  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_uselbpull.dat
+2015-01-21 16:14:11  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:11  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:14:11  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:14:11  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:11  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\sekey_createdsksc.dat
+2015-01-21 16:14:11  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/sekey_createdsksc.dat
+2015-01-21 16:14:12  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:12  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:14:12  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:14:12  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:12  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:14:12  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:14:12  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:12  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:14:12  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:14:12  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:12  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:14:12  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:14:12  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:12  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_inst.dat
+2015-01-21 16:14:12  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_inst.dat
+2015-01-21 16:14:12  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:12  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_pull.dat
+2015-01-21 16:14:12  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_pull.dat
+2015-01-21 16:14:12  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:12  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:14:12  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:14:12  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:14:12  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:14:12  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:14:12  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:14:12  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:14:12  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\imd5.dat
+2015-01-21 16:14:12  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/imd5.dat
+2015-01-21 16:14:13  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:14:13  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\index.dat
+2015-01-21 16:14:13  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/index.dat
+2015-01-21 16:14:13  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:13  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:13  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:14:13  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:14:13  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:13  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb.dat
+2015-01-21 16:14:13  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb.dat
+2015-01-21 16:14:13  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:13  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:14:13  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:14:13  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:13  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:14:13  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:14:13  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:13  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_nourl.dat
+2015-01-21 16:14:13  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_nourl.dat
+2015-01-21 16:14:13  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:13  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_pull.dat
+2015-01-21 16:14:13  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_pull.dat
+2015-01-21 16:14:13  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:13  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:14:13  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:14:13  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:13  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:14:13  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:14:13  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:13  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:14:13  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:14:14  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:14  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:14:14  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:14:14  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:14  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:14:14  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:14:14  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:14  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_uselbpull.dat
+2015-01-21 16:14:14  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_uselbpull.dat
+2015-01-21 16:14:14  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:14  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:14:14  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:14:14  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:14  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\sekey_createdsksc.dat
+2015-01-21 16:14:14  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/sekey_createdsksc.dat
+2015-01-21 16:14:14  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:14  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:14:14  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:14:14  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:14  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:14:14  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:14:14  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:14  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:14:14  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:14:14  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:14  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:14:14  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:14:15  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:15  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_inst.dat
+2015-01-21 16:14:15  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_inst.dat
+2015-01-21 16:14:15  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:15  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_pull.dat
+2015-01-21 16:14:15  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_pull.dat
+2015-01-21 16:14:15  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:15  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:14:15  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:14:15  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:14:15  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:14:15  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:14:15  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334
+2015-01-21 16:14:15  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1334
+2015-01-21 16:14:15  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\imd5.dat
+2015-01-21 16:14:15  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/imd5.dat
+2015-01-21 16:14:15  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334
+2015-01-21 16:14:15  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\index.dat
+2015-01-21 16:14:15  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/index.dat
+2015-01-21 16:14:15  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:15  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:15  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:14:15  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:14:15  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:15  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\iecr_rcmdlb.dat
+2015-01-21 16:14:15  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/iecr_rcmdlb.dat
+2015-01-21 16:14:15  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:15  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:14:15  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:14:16  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:16  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:14:16  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:14:16  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:16  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\iecr_rcv_nourl.dat
+2015-01-21 16:14:16  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/iecr_rcv_nourl.dat
+2015-01-21 16:14:16  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:16  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\iecr_rcv_pull.dat
+2015-01-21 16:14:16  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/iecr_rcv_pull.dat
+2015-01-21 16:14:16  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:16  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:14:16  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:14:16  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:16  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:14:16  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:14:16  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:16  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:14:16  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:14:17  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:17  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:14:17  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:14:17  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:17  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:14:17  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:14:17  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:17  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieup_uselbpull.dat
+2015-01-21 16:14:17  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieup_uselbpull.dat
+2015-01-21 16:14:17  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:17  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:14:17  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:14:17  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:17  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\sekey_createdsksc.dat
+2015-01-21 16:14:17  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/sekey_createdsksc.dat
+2015-01-21 16:14:17  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:17  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:14:17  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:14:18  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:18  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:14:18  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:14:18  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:18  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:14:18  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:14:18  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:18  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:14:18  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:14:18  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:18  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\wb_conaccount_inst.dat
+2015-01-21 16:14:18  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/wb_conaccount_inst.dat
+2015-01-21 16:14:18  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:18  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\wb_conaccount_pull.dat
+2015-01-21 16:14:18  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/wb_conaccount_pull.dat
+2015-01-21 16:14:18  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:18  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:14:18  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:14:18  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:14:18  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:14:18  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:14:18  DEBUG - Finished download!
+2015-01-21 16:14:18  DEBUG - start compare files
+2015-01-21 16:29:03  DEBUG - found datalist
+2015-01-21 16:29:03  DEBUG - e:\kuaipan\study\code\python\tools\kcloudpop\data exists!
+2015-01-21 16:29:03  DEBUG - del e:\kuaipan\study\code\python\tools\kcloudpop\data
+2015-01-21 16:29:03  DEBUG - read config success
+2015-01-21 16:29:03  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:29:03  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\imd5.dat
+2015-01-21 16:29:03  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/imd5.dat
+2015-01-21 16:29:03  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335
+2015-01-21 16:29:03  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\index.dat
+2015-01-21 16:29:03  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/index.dat
+2015-01-21 16:29:03  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:03  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:03  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:29:03  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:29:03  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:03  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb.dat
+2015-01-21 16:29:03  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb.dat
+2015-01-21 16:29:03  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:03  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:29:03  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:29:03  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:03  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:29:03  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:29:03  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:03  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_nourl.dat
+2015-01-21 16:29:03  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_nourl.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\iecr_rcv_pull.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/iecr_rcv_pull.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_uselbpull.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_uselbpull.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\sekey_createdsksc.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/sekey_createdsksc.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_inst.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_inst.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_conaccount_pull.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_conaccount_pull.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1335\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1335/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:29:04  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\imd5.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/imd5.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\index.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/index.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:04  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_nourl.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_nourl.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\iecr_rcv_pull.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/iecr_rcv_pull.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:29:04  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:04  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:29:04  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_uselbpull.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_uselbpull.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\sekey_createdsksc.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/sekey_createdsksc.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_inst.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_inst.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_conaccount_pull.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_conaccount_pull.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1509\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1509/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334
+2015-01-21 16:29:05  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1334
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\imd5.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/imd5.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\index.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/index.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:05  DEBUG - create dir e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\clie_rcmdlb_pull.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/clie_rcmdlb_pull.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\iecr_rcmdlb.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/iecr_rcmdlb.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\iecr_rcmdlb_nourl.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/iecr_rcmdlb_nourl.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\iecr_rcmdlb_pull.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/iecr_rcmdlb_pull.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\iecr_rcv_nourl.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/iecr_rcv_nourl.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\iecr_rcv_pull.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/iecr_rcv_pull.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieks_rcmdlbinst.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieks_rcmdlbinst.dat
+2015-01-21 16:29:05  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:05  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieks_rcmdlbpull.dat
+2015-01-21 16:29:05  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieks_rcmdlbpull.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieup_ie10rcmdlb.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieup_ie10rcmdlb.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieup_ie78rcmdlb.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieup_ie78rcmdlb.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieup_ie9rcmdlb.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieup_ie9rcmdlb.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieup_uselbpull.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieup_uselbpull.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\ieup_z_ie6uptoie8.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/ieup_z_ie6uptoie8.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\sekey_createdsksc.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/sekey_createdsksc.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/tr_microsoftxp_ie68_lbinst.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/tr_microsoftxp_ie68_lbpull.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\up3rd_rcmdalock360.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/up3rd_rcmdalock360.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\up3rd_rcmdduba123.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/up3rd_rcmdduba123.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\wb_conaccount_inst.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/wb_conaccount_inst.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\wb_conaccount_pull.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/wb_conaccount_pull.dat
+2015-01-21 16:29:06  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:06  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\wb_tmrcmdlbinst.dat
+2015-01-21 16:29:06  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/wb_tmrcmdlbinst.dat
+2015-01-21 16:29:07  DEBUG - file dir: e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack
+2015-01-21 16:29:07  DEBUG - Local path:e:\kuaipan\study\code\python\tools\kcloudpop\data\1334\pack\wb_tmrcmdlbpull.dat
+2015-01-21 16:29:07  DEBUG - Start download:http://cu005.www.duba.net/duba/2013/krcmdmon/pop/1334/pack/wb_tmrcmdlbpull.dat
+2015-01-21 16:29:07  DEBUG - Finished download!
+2015-01-21 16:29:07  DEBUG - start compare files

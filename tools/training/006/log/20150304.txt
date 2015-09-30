@@ -1,0 +1,16 @@
+In Python3.3+, you could use contextlib.ExitStack. In Python2 (or older versions of Python3), you could use contextlib2.ExitStack, which is installable with
+
+pip install contextlib2
+try:
+    import contextlib
+    contextlib.ExitStack
+except AttributeError:
+    import contextlib2 as contextlib
+
+partnames = ['foo', 'bar', 'baz']
+with contextlib.ExitStack() as stack:
+    # All opened files will automatically be closed at the end of
+    # the with statement, even if attempts to open files later
+    # in the list raise an exception
+    files = [stack.enter_context(open(name, "w+")) for name in partnames]
+    print(files)
