@@ -16,7 +16,7 @@ LocalTime = time.strftime(ISOTIMEFORMAT, time.localtime())
 
 def CreateMysqlConnect():
     try:
-        sqlConnect = MySQLdb.connect(host='172.18.195.222', user='root', passwd='123', db='sjktest')
+        sqlConnect = MySQLdb.connect(host='127.0.0.1', user='root', passwd='123', db='test')
         return sqlConnect
     except (Exception):
         print 'sql connect to localhost failed'

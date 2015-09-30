@@ -39,7 +39,7 @@ def logger():
 #-----------------
 def CreateMysqlConnect():
     try:
-        sqlConnect = MySQLdb.connect(host='10.20.225.56', user='root', passwd='kingsoft', db='data')
+        sqlConnect = MySQLdb.connect(host='127.0.0.1', user='user', passwd='pwd', db='data')
         return sqlConnect
     except (Exception):
         print 'sql connect to localhost failed'
