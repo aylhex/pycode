@@ -14,7 +14,7 @@ def show(char):
                     
 
 def main():
-    show('Z')
+    show('2')
 
     
 if __name__ == '__main__':  
