@@ -1,7 +1,7 @@
-from ocr58 import DoWork
+from identify import DoWork,getimpobjbymethod
 import os
 
-def main():
+def testallpic():
     sum5 = 0
     for root,dirs,files in os.walk('..\pic'):
         for file in files:
@@ -21,5 +21,13 @@ def test():
     fpath=r'e:\code\git\ImageRecognizeOf58\hack58\pic\test.jpg'
     result=DoWork(fpath)
     print ''.join(result)
+
+def testothermethod():
+    fpath='../pic/17380.jpg'
+    getimpobjbymethod(fpath)
+
+def main():
+    testothermethod()
+
 if __name__ == '__main__':
-    test()
+    main()

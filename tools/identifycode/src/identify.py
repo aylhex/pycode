@@ -1,24 +1,28 @@
 #coding=utf-8
-from PIL import Image  
-from PIL import ImageEnhance  
-from PIL import ImageFilter  
+from PIL import Image,ImageEnhance,ImageFilter  
 import sys  
 from PIL import ImageDraw
 from StringIO import StringIO
 import copy
 import json
 
-from checkCharData import show
+from collectfont import show
 
-'''
-加载字模数据
-'''
-with open('data_58.json') as f:
+
+# 加载字模数据
+with open('data.json') as f:
     CharMatrix = json.loads(f.read())
 
-'''
- 二值化
-'''
+def getimpobjbymethod(image_name):
+    im = Image.open(image_name)
+    # im.show()
+    im = im.filter(ImageFilter.MedianFilter())
+    enhancer = ImageEnhance.Contrast(im)
+    im = enhancer.enhance(2)
+    im = im.convert('1')
+    im.show()
+
+# 二值化
 def calcThreshold(img):
     im=Image.open(img)
     
@@ -30,8 +34,6 @@ def calcThreshold(img):
         if sum >= 530:
             threshold = i
             break
-#    if threshold > 105:
-#        threshold = 105
     return threshold
 
 def binaryzation(img,threshold = 90):
@@ -53,16 +55,14 @@ def binaryzation(img,threshold = 90):
     return imout
 
 
-'''
-抽取出字符矩阵 列表
-'''
+# 抽取出字符矩阵 列表
 def extractChar(im):
     OFFSETLIST = [(1,0),(0,1),(-1,0),(0,-1),(1,1),(-1,1),(1,-1),(-1,-1)]
     pixelAccess = im.load()
     num = 1
     queue = []
     ff = [[0]*im.size[1] for i in xrange(im.size[0])]
-  # 打印原始
+    # 打印原始
     # for j in xrange(im.size[1]):
     #    for i in xrange(im.size[0]):
     #        if pixelAccess[i,j]:
@@ -71,15 +71,10 @@ def extractChar(im):
     #            print 'O',
     #    print '\n'
         
-    '''
-        floodfill 提出块
-    '''
-    
+    # floodfill 提出块
     for i in xrange(im.size[0]):
         for j in xrange(im.size[1]):
-            '''
-                pixelAccess[i,j] == 0 表示是黑点
-            '''
+            # pixelAccess[i,j] == 0 表示是黑点
             if pixelAccess[i,j] == 0 and ff[i][j] == 0:
                 ff[i][j] = num
                 queue.append((i,j))
@@ -95,17 +90,15 @@ def extractChar(im):
                             queue.append((x,y))
 
                 num += 1
-#   打印聚类 
-#    for j in xrange(im.size[1]):
-#        for i in xrange(im.size[0]):
-#            print ' ' if ff[i][j] == 0 else ff[i][j],
-#        print '\n'
-#    print num
+    #   打印聚类 
+    #    for j in xrange(im.size[1]):
+    #        for i in xrange(im.size[0]):
+    #            print ' ' if ff[i][j] == 0 else ff[i][j],
+    #        print '\n'
+    #    print num
     
-    '''
-        字符点阵的坐标列表，对齐到 (0,0)
-        eg: [(1,2),(3,24),(54,23)]
-    '''
+    # 字符点阵的坐标列表，对齐到 (0,0)
+    # eg: [(1,2),(3,24),(54,23)]
     #初始化字符数组
     info = {
             "x_min":im.size[0],
@@ -141,10 +134,7 @@ def extractChar(im):
     ret.sort(lambda a,b:a['x_min'] < b['x_min'])
     return ret
 
-'''
-    识别字符
-'''
-
+# 识别字符
 def charSimilarity(charA,charB):
     s2 = set([(one[0],one[1]) for one in charB['points']])
     sumlen = len(charA['points']) + len(charB['points'])
@@ -160,7 +150,7 @@ def charSimilarity(charA,charB):
                 max = sim
     return max
 
-
+# 识别字符
 def recognise(one):
     max = 0
     ret = None
@@ -173,10 +163,7 @@ def recognise(one):
     return ret
     
 
-
-'''
-    识别验证码
-'''
+# 识别验证码
 def DoWork(img):
     ans = []
     threshold = calcThreshold(img)
@@ -187,16 +174,15 @@ def DoWork(img):
         ans.append(recognise(one))
     return ans
 
-'''
-    获取字模
-'''
+# 获取字模
 def dump(char,dic):
     with open('../json/'+ char + '.json','wb') as f:
         f.write(json.dumps(dic))
         
 def GETSTAND():
     ans = []
-    im = binaryzation('../pic/Ta2px.bmp')
+    picpath='../pic/25470.jpg'
+    im = binaryzation(picpath)
     for one in extractChar(im):
         ans.append(one)
     print 'LAST:',len(ans)
@@ -215,8 +201,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-    #GETSTAND()
-    #calcThreshold('../pic/Ta2px.bmp')
         
                 
         
