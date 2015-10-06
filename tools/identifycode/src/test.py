@@ -1,5 +1,6 @@
-from identify import DoWork,getimpobjbymethod
+from identify import DoWork
 import os
+from collectfont import show
 
 def testallpic():
     sum5 = 0
@@ -18,16 +19,16 @@ def testallpic():
     print 'approximate correct:',sum5
 
 def test():
-    fpath=r'e:\code\git\ImageRecognizeOf58\hack58\pic\test.jpg'
-    result=DoWork(fpath)
-    print ''.join(result)
+    fpath='bi.bmp'
 
-def testothermethod():
-    fpath='../pic/17380.jpg'
-    # getimgobjbymethod(fpath)
+def showchar():
+    # fpath='../pic/17380.jpg'
+    char='3'
+    show(char)
+
 
 def main():
-    testothermethod()
+    test()
 
 if __name__ == '__main__':
     main()

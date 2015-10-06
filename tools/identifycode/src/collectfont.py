@@ -68,7 +68,6 @@ def GetAllJson():
         result[key].pop('y_min')
         result[key].pop('x_max')
         result[key].pop('y_max')
-    # print result
     with open('data.json', 'wb') as f:
         f.write(json.dumps(result))
 
@@ -83,14 +82,17 @@ def show(char):
         for j in xrange(dic['height']):
             for i in xrange(dic['width']):
                 if [i,j] in dic['points']:
-                    print 'O',
+                    print '0',
                 else:
                     print ' ',
             print '\n'
 
-
 def main():
-    GetAllJson()
+    if len(sys.argv)==2:
+        char=sys.argv[1]
+        show(char)
+    else:
+        GetAllJson()
 
 if __name__ == '__main__':
     main()
