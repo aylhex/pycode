@@ -1,7 +1,6 @@
 #coding=utf-8
-from PIL import Image,ImageEnhance,ImageFilter  
 import sys  
-from PIL import ImageDraw
+from PIL import Image,ImageEnhance,ImageFilter,ImageDraw
 from StringIO import StringIO
 import copy
 import json
@@ -13,29 +12,21 @@ from collectfont import show
 with open('data.json') as f:
     CharMatrix = json.loads(f.read())
 
-def getimpobjbymethod(image_name):
-    im = Image.open(image_name)
-    # im.show()
-    im = im.filter(ImageFilter.MedianFilter())
-    enhancer = ImageEnhance.Contrast(im)
-    im = enhancer.enhance(2)
-    im = im.convert('1')
-    im.show()
 
-# 二值化
+# 计算阀值
 def calcThreshold(img):
     im=Image.open(img)
-    
     L = im.convert('L').histogram()
-    sum = 0
+    num = 0
     threshold = 0
     for i in xrange(len(L)):
-        sum += L[i]
-        if sum >= 530:
+        num += L[i]
+        if num >= 530:
             threshold = i
             break
     return threshold
 
+# 二值化
 def binaryzation(img,threshold = 90):
     table = []
     for i in range(256):
@@ -44,7 +35,6 @@ def binaryzation(img,threshold = 90):
         else:
             table.append(1)
 
-    print type(img)
     if not isinstance(img,StringIO) and type(img) != str and type(img) != unicode:
         raise Exception('img must be StringIO or filename(str/unicode)')
     im=Image.open(img)

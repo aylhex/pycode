@@ -24,7 +24,7 @@ def test():
 
 def testothermethod():
     fpath='../pic/17380.jpg'
-    getimpobjbymethod(fpath)
+    # getimgobjbymethod(fpath)
 
 def main():
     testothermethod()
