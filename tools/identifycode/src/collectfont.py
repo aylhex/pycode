@@ -87,6 +87,15 @@ def show(char):
                     print ' ',
             print '\n'
 
+def showchar_dict(dict_char):
+    for j in xrange(dict_char['height']):
+        for i in xrange(dict_char['width']):
+            if (i,j) in dict_char['points']:
+                print '0',
+            else:
+                print ' ',
+        print '\n'
+
 def main():
     if len(sys.argv)==2:
         char=sys.argv[1]

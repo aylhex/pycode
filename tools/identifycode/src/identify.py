@@ -5,13 +5,32 @@ from StringIO import StringIO
 import copy
 import json
 
-from collectfont import show
+from collectfont import show,showchar_dict
 
 
 # 加载字模数据
 with open('data.json') as f:
     CharMatrix = json.loads(f.read())
 
+# the num of chars
+charnum = 5  
+# start postion of first number
+xstart = 6
+# width of each number
+xwidth = 9
+# start postion of top 
+ystart = 5
+# height of each number
+yhigh = 13  
+
+def ImgFilter(image_name):
+    im = Image.open(image_name)
+    im = im.filter(ImageFilter.MedianFilter())
+    enhancer = ImageEnhance.Contrast(im)
+    im = enhancer.enhance(2)
+    im = im.convert('1')
+    # im.show()
+    return im
 
 # 计算阀值
 def calcThreshold(img):
@@ -44,12 +63,26 @@ def binaryzation(img, threshold=110):
     imout.save("bi.bmp")
     return imout
 
+# split five numbers in the picture
+def CropPic(im):
+    im_crop_list = []
+    # cut every char
+    for i in range(charnum):
+        im1 = im.crop((xstart+xwidth*i, ystart, xstart+xwidth*(i+1), ystart+yhigh))
+        im_crop_list.append(im1)
+    return im_crop_list
 
 # 抽取出字符矩阵 列表
 def extractChar(im):
+    """
+    返回列表，每个元素为对应黑块的信息字典
+    """    
     # 坐标偏移,对应周围八个像素
     # OFFSETLIST = [(1, 0), (0, 1), (-1, 0), (0, -1), (1, 1), (-1, 1), (1, -1), (-1, -1)]
     OFFSETLIST = [(1, 0), (0, 1), (-1, 0), (0, -1),]
+    # 设置阀值，色块内的像素数目
+    filter_num=20
+
     pixelAccess = im.load()
     # 图片中黑块个数
     num = 1
@@ -94,12 +127,6 @@ def extractChar(im):
         "points": []
     }
     charList = [copy.deepcopy(info) for i in xrange(num)]
-    return (num,ff,charList)
-
-def GetThechars(im,num,ff,charList):
-    """
-    返回列表，每个元素为对应黑块的信息字典
-    """    
     # 遍历ff，统计黑点，并更新charList列表
     for i in xrange(im.size[0]):
         for j in xrange(im.size[1]):
@@ -127,13 +154,10 @@ def GetThechars(im,num,ff,charList):
         # 修正偏移
         charList[i]['points'] = [(x-charList[i]['x_min'], y-charList[i]['y_min']) for x, y in charList[i]['points']]
     # 过滤杂点
-    # 设置阀值，色块内的像素数目
-    filter_num=10
     # ret = [one for one in charList if one['number'] > filter_num]
     ret = filter(lambda item:item['number']>filter_num, charList)
     # 排序
     ret.sort(lambda a, b: a['x_min'] < b['x_min'])
-    print "ret:",len(ret)
     return ret
 
 # 识别字符
@@ -157,11 +181,11 @@ def charSimilarity(charA, charB):
     return num_max
 
 # 识别字符
-def recognise(one):
+def recognise(dict_char):
     num_max = 0
     ret = None
     for char in CharMatrix:
-        s = charSimilarity(one, CharMatrix[char])
+        s = charSimilarity(dict_char, CharMatrix[char])
         # print s * 100,"%"
         if s > num_max:
             ret = char
@@ -205,17 +229,21 @@ def GETSTAND():
 def test():
     fpath='../pic/55154.jpg'
     tempnum=calcThreshold(fpath)
-    # print tempnum
     im=binaryzation(fpath)
-    num,ff,charList=extractChar(im)
-    ret=GetThechars(im, num, ff, charList)
-    for item in ret:
-        print item['number'],item['x_min'],item['x_max'],item['y_min'],item['y_max']
+    im.show()
+    im_crop_list=CropPic(im)
+    for item in im_crop_list:
+        dict_char=extractChar(item)[0]
+        print "========"
+        showchar_dict(dict_char)
+        print "result:",recognise(dict_char)
 
 def main():
-    ans = DoWork('../pic/17380.jpg')
-    print ans
+    if len(sys.argv)==2:
+        char=sys.argv[1]
+        show(char)
+    else:
+        test()
 
 if __name__ == '__main__':
-    # main()
-    test()
+    main()
