@@ -20,6 +20,8 @@ def testallpic():
 
 def test():
     fpath='bi.bmp'
+    slist=range(1,5)
+    print slist
 
 def showchar():
     # fpath='../pic/17380.jpg'
