@@ -1,11 +1,12 @@
 # coding=utf-8
 import sys
+import os
 from PIL import Image, ImageEnhance, ImageFilter, ImageDraw
 from StringIO import StringIO
 import copy
 import json
 
-from collectfont import show,showchar_dict
+from collectfont import show,showchar_dict,dump
 
 
 # 加载字模数据
@@ -204,31 +205,29 @@ def DoWork(img):
         ans.append(recognise(one))
     return ans
 
-# 获取字模
-def dump(char, dic):
-    with open('../json/' + char + '.json', 'wb') as f:
-        f.write(json.dumps(dic))
-
-def GETSTAND():
+# 学习字模
+def GETSTAND(img_name,chars=None):
     ans = []
-    picpath = '../pic/25470.jpg'
-    im = binaryzation(picpath)
-    for one in extractChar(im):
-        ans.append(one)
-    print 'LAST:', len(ans)
-    if len(ans) != 5:
-        print '!!!!!!!!!!! ERROR !!!!!!!!!!!!!'
-    else:
-        # dump('K',ans[0])
-        # dump('_k',ans[1])
-        dump('Z', ans[2])
-        # dump('Y',ans[3])
-        # dump('K',ans[4])
+    # img_name = '../pic/25470.jpg'
+    if not chars:
+        chars=os.path.basename(img_name).split(r'.')[0]
+    if len(chars) != charnum:
+        print "chars num error!"
+        return False
+    im = binaryzation(img_name)
+    im_crop_list=CropPic(im)
+    i=0
+    for item in im_crop_list:
+        dict_char=extractChar(item)[0]
+        dump(chars[i], dict_char)
+        i+=1
+    print 'end'
+    return True
 
 
 def test():
     fpath='../pic/55154.jpg'
-    tempnum=calcThreshold(fpath)
+    # tempnum=calcThreshold(fpath)
     im=binaryzation(fpath)
     im.show()
     im_crop_list=CropPic(im)
@@ -237,6 +236,10 @@ def test():
         print "========"
         showchar_dict(dict_char)
         print "result:",recognise(dict_char)
+
+def autostudy():
+    fpath='../pic/96859.jpg'
+    GETSTAND(fpath)
 
 def main():
     if len(sys.argv)==2:

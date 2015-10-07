@@ -63,13 +63,18 @@ def GetAllJson():
     for item in typelist:
         dict_temp = GetTheJson(item)
         result.update(dict_temp)
-    for key in result:
-        result[key].pop('x_min')
-        result[key].pop('y_min')
-        result[key].pop('x_max')
-        result[key].pop('y_max')
+    # for key in result:
+    #     result[key].pop('x_min')
+    #     result[key].pop('y_min')
+    #     result[key].pop('x_max')
+    #     result[key].pop('y_max')
     with open('data.json', 'wb') as f:
         f.write(json.dumps(result))
+
+# 更新字模
+def dump(char, dic):
+    with open('../json_zhuhai/' + char + '.json', 'wb') as f:
+        f.write(json.dumps(dic))
 
 def show(char):
     fpath='../json_zhuhai/%s.json'%char

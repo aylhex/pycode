@@ -19,9 +19,9 @@ def testallpic():
     print 'approximate correct:',sum5
 
 def test():
-    fpath='bi.bmp'
-    slist=range(1,5)
-    print slist
+    fpath='../pic/17380.jpg'
+    fn=os.path.basename(fpath).split(r'.')[0]
+    print fn
 
 def showchar():
     # fpath='../pic/17380.jpg'
