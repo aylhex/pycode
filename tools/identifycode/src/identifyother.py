@@ -138,7 +138,7 @@ def Pic_Reg(image_name=None):
 
 
 def main():
-    image_name = '../pic/96859.jpg'
+    image_name = '../pic/25470.jpg'
     imobj = ImgFilter(image_name)
     im_crop_list=CropPic(imobj)
     ExtractChars(im_crop_list)

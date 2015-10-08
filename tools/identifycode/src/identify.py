@@ -6,12 +6,10 @@ from StringIO import StringIO
 import copy
 import json
 
-from collectfont import show,showchar_dict,dump,GetAllJson
-
+from collectfont import show,showchar_dict,dump,GetAllJson,GetJsonData
 
 # 加载字模数据
-with open('data.json') as f:
-    CharMatrix = json.loads(f.read())
+CharMatrix=GetJsonData()
 
 # the num of chars
 charnum = 5  
@@ -59,9 +57,9 @@ def binaryzation(img, threshold=110):
         raise Exception('img must be StringIO or filename(str/unicode)')
     im = Image.open(img)
     imgry = im.convert('L')
-    imgry.save("bi0.bmp")
+    # imgry.save("bi0.bmp")
     imout = imgry.point(table, '1')
-    imout.save("bi.bmp")
+    # imout.save("bi.bmp")
     return imout
 
 # split five numbers in the picture
@@ -206,9 +204,10 @@ def recognise(dict_char):
 #     return ans
 def DoWork(image_name):
     charlist=[]
+    im=Image.open(image_name)
     # tempnum=calcThreshold(image_name)
-    im=binaryzation(image_name)
     im.show()
+    im=binaryzation(image_name)
     im_crop_list=CropPic(im)
     for item in im_crop_list:
         dict_char=extractChar(item)[0]
@@ -239,7 +238,7 @@ def GETSTAND(img_name,chars=None):
     return True
 
 def main():
-    image_name='../pic/57395.jpg'
+    image_name='../pic/71289.jpg'
     chars = DoWork(image_name)
     print "==>",chars
 if __name__ == '__main__':

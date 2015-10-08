@@ -1,6 +1,5 @@
 from identify import DoWork
 import os
-from collectfont import show
 import json
 
 def testallpic():
@@ -24,15 +23,13 @@ def test():
     fn=os.path.basename(fpath).split(r'.')[0]
     print fn
 
-def showchar():
-    # fpath='../pic/17380.jpg'
-    testlist3=(1,2)
-    testlist=[1,2,testlist3]
-    ss=json.dumps(testlist)
-    print ss
+def GetcharTest():
+    fpath='../pic/17380.jpg'
+    chars=DoWork(fpath)
+    print chars
 
 def main():
-    showchar()
+    GetcharTest()
 
 if __name__ == '__main__':
     main()

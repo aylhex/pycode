@@ -10,6 +10,9 @@ import sys
 import os
 import pickle
 
+path_json_data='data.json'
+path_json_zhuhai_pre='../json_zhuhai/'
+
 def GetTheJson(jsontype):
     '''
     jsontype:
@@ -69,16 +72,16 @@ def GetAllJson():
     #     result[key].pop('y_min')
     #     result[key].pop('x_max')
     #     result[key].pop('y_max')
-    with open('data.json', 'wb') as f:
+    with open(path_json_data, 'wb') as f:
         f.write(json.dumps(result))
 
 # 更新字模
 def dump(char, dic):
-    with open('../json_zhuhai/' + char + '.json', 'wb') as f:
+    with open(path_json_zhuhai_pre + char + '.json', 'wb') as f:
         f.write(json.dumps(dic))
 
 def show(char):
-    fpath='../json_zhuhai/%s.json'%char
+    fpath=path_json_zhuhai_pre+'%s.json'%char
     if not os.path.exists(fpath):
         print 'The json file is not exist!'
         return
@@ -101,6 +104,16 @@ def showchar_dict(dict_char):
             else:
                 print ' ',
         print '\n'
+
+# 加载字模数据
+def GetJsonData():
+    try:
+        f=open(path_json_data,'r')
+        CharMatrix = json.loads(f.read(8000))
+        f.close()
+        return CharMatrix
+    except IOError:
+        return None
 
 def main():
     if len(sys.argv)==2:
