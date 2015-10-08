@@ -1,6 +1,6 @@
-from identify import DoWork
 import os
 import json
+from identify import DoWork,WalkAllPics
 
 def testallpic():
     sum5 = 0
@@ -18,17 +18,20 @@ def testallpic():
                 pass
     print 'approximate correct:',sum5
 
-def test():
-    fpath='../pic/17380.jpg'
-    fn=os.path.basename(fpath).split(r'.')[0]
-    print fn
 
 def GetcharTest():
-    fpath='../pic/17380.jpg'
+    fpath='../pic/84067.jpg'
     chars=DoWork(fpath)
     print chars
 
+def TestWalkTmpPics():
+    Pic_dir=os.path.abspath('../tmp/')
+    charlist=WalkAllPics(Pic_dir)
+    for i in charlist:
+        print i 
+
 def main():
+    # TestWalkTmpPics()
     GetcharTest()
 
 if __name__ == '__main__':

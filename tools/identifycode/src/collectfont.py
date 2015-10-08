@@ -115,6 +115,16 @@ def GetJsonData():
     except IOError:
         return None
 
+def WalkThePics(dir_pic):
+    Picfiles=[]
+    if not os.path.exists(dir_pic):
+        return Picfiles
+    for root,dirs,files in os.walk(dir_pic):
+        for f in files:
+            fpath = os.path.join(root,f)
+            Picfiles.append(fpath)
+    return Picfiles
+
 def main():
     if len(sys.argv)==2:
         char=sys.argv[1]

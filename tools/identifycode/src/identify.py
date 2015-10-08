@@ -5,8 +5,7 @@ from PIL import Image, ImageEnhance, ImageFilter, ImageDraw
 from StringIO import StringIO
 import copy
 import json
-
-from collectfont import show,showchar_dict,dump,GetAllJson,GetJsonData
+from collectfont import show,showchar_dict,dump,GetAllJson,GetJsonData,WalkThePics
 
 # 加载字模数据
 CharMatrix=GetJsonData()
@@ -193,30 +192,30 @@ def recognise(dict_char):
 
 
 # 识别验证码主函数
-# def DoWork(img):
-#     ans = []
-#     threshold = calcThreshold(img)
-#     print 'threshold:', threshold
-#     im = binaryzation(img, threshold)
-#     chars = extractChar(im)
-#     for one in chars:
-#         ans.append(recognise(one))
-#     return ans
 def DoWork(image_name):
     charlist=[]
-    im=Image.open(image_name)
     # tempnum=calcThreshold(image_name)
-    im.show()
+    # im=Image.open(image_name)
     im=binaryzation(image_name)
+    # im.show()
     im_crop_list=CropPic(im)
     for item in im_crop_list:
         dict_char=extractChar(item)[0]
-        showchar_dict(dict_char)
+        # showchar_dict(dict_char)
         re_char=recognise(dict_char)
-        # print "result:",recognise(dict_char)
         charlist.append(re_char)
     result=''.join(charlist)
     return result
+
+# 遍历某个目录
+def WalkAllPics(Pic_dir):
+    # PATHFORSAVE=os.path.abspath('../tmp/')
+    Picfiles=WalkThePics(Pic_dir)
+    charlist=[]
+    for img in Picfiles:
+        char = DoWork(img)
+        charlist.append(char)
+    return charlist
 
 # 学习字模
 def GETSTAND(img_name,chars=None):
