@@ -201,7 +201,7 @@ def DoWork(image_name):
     im_crop_list=CropPic(im)
     for item in im_crop_list:
         dict_char=extractChar(item)[0]
-        # showchar_dict(dict_char)
+        showchar_dict(dict_char)
         re_char=recognise(dict_char)
         charlist.append(re_char)
     result=''.join(charlist)
