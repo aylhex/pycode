@@ -6,7 +6,7 @@ from StringIO import StringIO
 import copy
 import json
 
-from collectfont import show,showchar_dict,dump
+from collectfont import show,showchar_dict,dump,GetAllJson
 
 
 # 加载字模数据
@@ -79,8 +79,8 @@ def extractChar(im):
     返回列表，每个元素为对应黑块的信息字典
     """    
     # 坐标偏移,对应周围八个像素
-    # OFFSETLIST = [(1, 0), (0, 1), (-1, 0), (0, -1), (1, 1), (-1, 1), (1, -1), (-1, -1)]
-    OFFSETLIST = [(1, 0), (0, 1), (-1, 0), (0, -1),]
+    OFFSETLIST = [(1, 0), (0, 1), (-1, 0), (0, -1), (1, 1), (-1, 1), (1, -1), (-1, -1)]
+    # OFFSETLIST = [(1, 0), (0, 1), (-1, 0), (0, -1),]
     # 设置阀值，色块内的像素数目
     filter_num=20
 
@@ -195,15 +195,29 @@ def recognise(dict_char):
 
 
 # 识别验证码主函数
-def DoWork(img):
-    ans = []
-    threshold = calcThreshold(img)
-    print 'threshold:', threshold
-    im = binaryzation(img, threshold)
-    chars = extractChar(im)
-    for one in chars:
-        ans.append(recognise(one))
-    return ans
+# def DoWork(img):
+#     ans = []
+#     threshold = calcThreshold(img)
+#     print 'threshold:', threshold
+#     im = binaryzation(img, threshold)
+#     chars = extractChar(im)
+#     for one in chars:
+#         ans.append(recognise(one))
+#     return ans
+def DoWork(image_name):
+    charlist=[]
+    # tempnum=calcThreshold(image_name)
+    im=binaryzation(image_name)
+    im.show()
+    im_crop_list=CropPic(im)
+    for item in im_crop_list:
+        dict_char=extractChar(item)[0]
+        showchar_dict(dict_char)
+        re_char=recognise(dict_char)
+        # print "result:",recognise(dict_char)
+        charlist.append(re_char)
+    result=''.join(charlist)
+    return result
 
 # 学习字模
 def GETSTAND(img_name,chars=None):
@@ -221,32 +235,12 @@ def GETSTAND(img_name,chars=None):
         dict_char=extractChar(item)[0]
         dump(chars[i], dict_char)
         i+=1
-    print 'end'
+    GetAllJson()
     return True
 
-
-def test():
-    fpath='../pic/55154.jpg'
-    # tempnum=calcThreshold(fpath)
-    im=binaryzation(fpath)
-    im.show()
-    im_crop_list=CropPic(im)
-    for item in im_crop_list:
-        dict_char=extractChar(item)[0]
-        print "========"
-        showchar_dict(dict_char)
-        print "result:",recognise(dict_char)
-
-def autostudy():
-    fpath='../pic/96859.jpg'
-    GETSTAND(fpath)
-
 def main():
-    if len(sys.argv)==2:
-        char=sys.argv[1]
-        show(char)
-    else:
-        test()
-
+    image_name='../pic/57395.jpg'
+    chars = DoWork(image_name)
+    print "==>",chars
 if __name__ == '__main__':
     main()

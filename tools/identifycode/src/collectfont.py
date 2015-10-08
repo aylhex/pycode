@@ -28,7 +28,7 @@ def GetTheJson(jsontype):
         char_pre=''
     if jsontype == 'num':
         templist = xrange(1, 10)
-        char_min = 'A'
+        char_min = '0'
         char_pre=''
 
     path_json_pre='../json_zhuhai/'+char_pre
@@ -59,7 +59,8 @@ def GetTheJson(jsontype):
 
 def GetAllJson():
     result = {}
-    typelist = ['low', 'up', 'num']
+    # typelist = ['low', 'up', 'num']
+    typelist = ['num']
     for item in typelist:
         dict_temp = GetTheJson(item)
         result.update(dict_temp)

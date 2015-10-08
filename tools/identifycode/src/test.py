@@ -1,6 +1,7 @@
 from identify import DoWork
 import os
 from collectfont import show
+import json
 
 def testallpic():
     sum5 = 0
@@ -25,12 +26,13 @@ def test():
 
 def showchar():
     # fpath='../pic/17380.jpg'
-    char='3'
-    show(char)
-
+    testlist3=(1,2)
+    testlist=[1,2,testlist3]
+    ss=json.dumps(testlist)
+    print ss
 
 def main():
-    test()
+    showchar()
 
 if __name__ == '__main__':
     main()
