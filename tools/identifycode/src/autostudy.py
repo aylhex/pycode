@@ -8,6 +8,7 @@
 import os
 import sys
 from identify import GETSTAND
+from collectfont import GetAllJson
 
 def autostudy(fpath):
     result=False
@@ -15,6 +16,7 @@ def autostudy(fpath):
     if not os.path.exists(fpath):
         return result
     result = GETSTAND(fpath)
+    GetAllJson()
     return result
 
 def WalkThePics(dir_pic):
@@ -32,6 +34,7 @@ def WalkThePics(dir_pic):
         result = True
     else:
         result = False
+    GetAllJson()
     return result,err_files
 
 def main():

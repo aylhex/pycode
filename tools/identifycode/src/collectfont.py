@@ -74,6 +74,7 @@ def GetAllJson():
     #     result[key].pop('y_max')
     with open(path_json_data, 'wb') as f:
         f.write(json.dumps(result))
+    return True
 
 # 更新字模
 def dump(char, dic):

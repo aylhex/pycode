@@ -233,7 +233,6 @@ def GETSTAND(img_name,chars=None):
         dict_char=extractChar(item)[0]
         dump(chars[i], dict_char)
         i+=1
-    GetAllJson()
     return True
 
 def main():
