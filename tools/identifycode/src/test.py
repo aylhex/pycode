@@ -20,7 +20,7 @@ def testallpic():
 
 
 def GetcharTest():
-    fpath='../pic/84067.jpg'
+    fpath='../pic/17380.jpg'
     chars=DoWork(fpath)
     print chars
 
