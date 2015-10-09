@@ -31,8 +31,8 @@ def TestWalkTmpPics():
         print i 
 
 def main():
-    # TestWalkTmpPics()
-    GetcharTest()
+    TestWalkTmpPics()
+    # GetcharTest()
 
 if __name__ == '__main__':
     main()
