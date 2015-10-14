@@ -32,6 +32,11 @@ def HttpDownload():
     result=True
     return result
 
+def HttpDownloadIO():
+    r=requests.get(DOWNURL)
+    pic=r.content
+    return pic
+
 def DownLoadPic(picnum):
     for i in range(picnum):
         print "download img: %d" %i

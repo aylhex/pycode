@@ -30,6 +30,10 @@ def ImgFilter(image_name):
     # im.show()
     return im
 
+def OpenImg(img):
+    im = Image.open(img)
+    return im
+
 # 计算阀值
 def calcThreshold(img):
     im = Image.open(img)

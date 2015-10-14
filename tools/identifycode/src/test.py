@@ -1,6 +1,8 @@
 import os
 import json
+from StringIO import StringIO
 from identify import DoWork,WalkAllPics
+from downloadPic import HttpDownloadIO
 
 def testallpic():
     sum5 = 0
@@ -20,8 +22,10 @@ def testallpic():
 
 
 def GetcharTest():
-    fpath='../pic/17380.jpg'
-    chars=DoWork(fpath)
+    # fpath='../pic/17380.jpg'
+    im=HttpDownloadIO()
+    im = StringIO(im) 
+    chars=DoWork(im)
     print chars
 
 def TestWalkTmpPics():
