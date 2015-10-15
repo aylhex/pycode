@@ -12,24 +12,44 @@ import logging
 def logger():
     """"""
     logger=logging.getLogger()
-    # logger.setLevel(logging.INFO)
-    # fh=logging.FileHandler(GetScriptName(),'a')
-    # fh.setLevel(logging.DEBUG)
-    # fm=logging.Formatter("%(asctime)s  %(levelname)s - %(message)s","%Y-%m-%d %H:%M:%S")
-    # fh.setFormatter(fm)
-    # logger.addHandler(fh)
     logging.basicConfig(filename=GetScriptName(),level=logging.INFO,format='%(asctime)s %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
+    return logger
+
+def loggerNew():
+    # 创建一个logger  
+    logger = logging.getLogger('mylogger')  
+    logger.setLevel(logging.DEBUG)  
+      
+    # 创建一个handler，用于写入日志文件  
+    fh = logging.FileHandler(GetScriptName())  
+    fh.setLevel(logging.DEBUG)
+      
+    # 再创建一个handler，用于输出到控制台  
+    ch = logging.StreamHandler()  
+    ch.setLevel(logging.INFO)  
+      
+    # 定义handler的输出格式  
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s','%Y-%m-%d %H:%M:%S')  
+    fh.setFormatter(formatter)  
+    ch.setFormatter(formatter)  
+
+    # 给logger添加handler  
+    logger.addHandler(fh)
+    logger.addHandler(ch)
     return logger
 
 def GetScriptName():
     fpath=os.path.realpath(__file__)
-    basename=os.path.basename(fpath)
-    sname=os.path.splitext(basename)[0]+'.log'
-    return sname
+    fdirpath,basename=os.path.split(fpath)
+    logpath=os.path.join(fdirpath,'log')
+    if not os.path.exists(logpath):
+        os.mkdir(logpath)
+    logpath=os.path.join(logpath,os.path.splitext(basename)[0]+'.log')
+    return logpath
 
 def main():
-    LOGA=logger()
-    LOGA.info('logging file')
+    LOGA=loggerNew()
+    LOGA.debug('logging file')
 
 if __name__ == '__main__':
     main()
