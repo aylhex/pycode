@@ -15,29 +15,6 @@ def logger():
     logging.basicConfig(filename=GetScriptName(),level=logging.INFO,format='%(asctime)s %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
     return logger
 
-def loggerNew():
-    # 创建一个logger  
-    logger = logging.getLogger('mylogger')  
-    logger.setLevel(logging.DEBUG)  
-      
-    # 创建一个handler，用于写入日志文件  
-    fh = logging.FileHandler(GetScriptName())  
-    fh.setLevel(logging.DEBUG)
-      
-    # 再创建一个handler，用于输出到控制台  
-    ch = logging.StreamHandler()  
-    ch.setLevel(logging.INFO)  
-      
-    # 定义handler的输出格式  
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s','%Y-%m-%d %H:%M:%S')  
-    fh.setFormatter(formatter)  
-    ch.setFormatter(formatter)  
-
-    # 给logger添加handler  
-    logger.addHandler(fh)
-    logger.addHandler(ch)
-    return logger
-
 def GetScriptName():
     fpath=os.path.realpath(__file__)
     fdirpath,basename=os.path.split(fpath)
@@ -46,6 +23,53 @@ def GetScriptName():
         os.mkdir(logpath)
     logpath=os.path.join(logpath,os.path.splitext(basename)[0]+'.log')
     return logpath
+
+class MyLogger(object):
+    """docstring for MyLogging"""
+    def __init__(self, logfilename,fhlevel=None,chlevel=None):
+        self.logfilename = logfilename
+        self.logpath=''
+        if fhlevel:
+            self.fhlevel=fhlevel
+        else:
+            self.fhlevel=logging.DEBUG
+        if chlevel:
+            self.chlevel=chlevel
+        else:
+            self.chlevel=logging.INFO
+            
+    def Logger(self):
+        # 创建一个logger  
+        logger = logging.getLogger('mylogger')  
+        logger.setLevel(logging.DEBUG)  
+          
+        # 创建一个handler，用于写入日志文件  
+        fh = logging.FileHandler(self.GetLogPath())  
+        fh.setLevel(self.fhlevel)
+          
+        # 再创建一个handler，用于输出到控制台  
+        ch = logging.StreamHandler()  
+        ch.setLevel(self.chlevel)  
+          
+        # 定义handler的输出格式  
+        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s','%Y-%m-%d %H:%M:%S')  
+        fh.setFormatter(formatter)  
+        ch.setFormatter(formatter)  
+
+        # 给logger添加handler  
+        logger.addHandler(fh)
+        logger.addHandler(ch)
+        return logger
+
+    def GetLogPath(self):
+        fpath=os.path.realpath(__file__)
+        fdirpath,basename=os.path.split(fpath)
+        logpath=os.path.join(fdirpath,'log')
+        if not os.path.exists(logpath):
+            os.mkdir(logpath)
+        logpath=os.path.join(logpath,self.logfilename+'.log')
+        self.logpath = logpath
+        return logpath
 
 def main():
     LOGA=loggerNew()
