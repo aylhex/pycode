@@ -72,8 +72,9 @@ class MyLogger(object):
         return logpath
 
 def main():
-    LOGA=loggerNew()
-    LOGA.debug('logging file')
+    lg=MyLogger('mylogfile')
+    LOGA=lg.Logger()
+    LOGA.info('logging file')
 
 if __name__ == '__main__':
     main()
