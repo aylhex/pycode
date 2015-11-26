@@ -22,29 +22,41 @@ class MyLogger(object):
 
     """docstring for MyLogging"""
 
-    def __init__(self, logfilename, fhlevel=None, chlevel=None, maxlogsize=None):
-        self.logfilename = logfilename
+    def __init__(self,loggername, fhlevel=None, chlevel=None, maxlogsize=None):
+        self.loggername = loggername
+        self.logfilename = loggername
         self.logpath = ''
         if maxlogsize:
             self.maxlogsize = maxlogsize
         else:
             self.maxlogsize = 5*1024*1024
         if fhlevel:
-            self.fhlevel = fhlevel
+            if fhlevel == 0:
+                self.fhlevel = logging.DEBUG
+            elif fhlevel == 1:
+                self.fhlevel = logging.INFO
+            elif fhlevel == 2:
+                self.fhlevel = logging.WARN
         else:
             self.fhlevel = logging.DEBUG
         if chlevel:
-            self.chlevel = chlevel
+            if chlevel == 0:
+                self.chlevel = logging.DEBUG
+            elif chlevel == 1:
+                self.chlevel = logging.INFO
+            elif chlevel == 2:
+                self.chlevel = logging.WARN
         else:
             self.chlevel = logging.INFO
 
     def Logger(self):
         # 创建一个logger
-        logger = logging.getLogger('mylogger')
+        logger = logging.getLogger(self.loggername)
         logger.setLevel(logging.DEBUG)
 
         # 创建一个handler，用于写入日志文件
         fh = logging.FileHandler(self.GetLogPath())
+        # fh =logging.handlers.RotatingFileHandler(self.GetLogPath(), maxBytes=5*1024*1024,backupCount=5)
         fh.setLevel(self.fhlevel)
 
         # 再创建一个handler，用于输出到控制台
@@ -52,10 +64,12 @@ class MyLogger(object):
         ch.setLevel(self.chlevel)
 
         # 定义handler的输出格式
-        formatter = logging.Formatter(
+        fhformatter = logging.Formatter(
             '%(asctime)s-%(name)s-%(levelname)s-%(message)s', '%Y-%m-%d %H:%M:%S')
-        fh.setFormatter(formatter)
-        ch.setFormatter(formatter)
+        chformatter = logging.Formatter(
+            '%(asctime)s-%(message)s', '%Y-%m-%d %H:%M:%S')
+        fh.setFormatter(fhformatter)
+        ch.setFormatter(chformatter)
 
         # 给logger添加handler
         logger.addHandler(fh)
