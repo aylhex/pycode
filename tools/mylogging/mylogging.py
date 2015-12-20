@@ -7,16 +7,15 @@
 
 import os
 import logging
+import logging.config
+
 
 # 日志模块
 
-
-def logger():
-    """"""
-    logger = logging.getLogger()
-    logging.basicConfig(filename=GetScriptName(), level=logging.INFO,
-                        format='%(asctime)s %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
-    return logger
+def main():
+    logging.config.fileConfig("logcfg.ini")
+    LOGA = logging.getLogger("loggerrota")
+    LOGA.info("info logs")
 
 class MyLogger(object):
 
@@ -99,8 +98,8 @@ class MyLogger(object):
             return True
 
 
-def main():
-    lg = MyLogger('mylogfile')
+def TestMyLogger():
+    lg = MyLogger(__name__)
     LOGA = lg.Logger()
     for i in range(10000):
         LOGA.info('logging file')
