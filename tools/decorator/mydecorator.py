@@ -13,23 +13,34 @@ import os
 
 
 def MyDeco1(func):
-	def _MyDeco():
-	    print "before MyFunc called!"
-	    func()
-	    print "after MyFunc called!"
-	return _MyDeco
+    def _MyDeco(*args, **kwargs):
+        result = {
+            "version": 1,
+            "Author": "nw",
+            "data": func(*args, **kwargs),
+        }
+        print result
+        return result
+    return _MyDeco
 
 
 @MyDeco1
-def MyFunc():
-    print "MyFunc called!"
+def MyFunc(a, b):
+    result = {
+        "errcode": 2,
+        "msg": "success",
+        "sum": a+b,
+    }
+    print result
+    return result
 
 
 def main():
-	print "--------------"
-	MyFunc()
-	print "--------------"
-	MyFunc()
+    a,b=5,88
+    print "--------------"
+    MyFunc(a, b)
+    print "--------------"
+    MyFunc(a, b)
 
 if __name__ == '__main__':
     main()
