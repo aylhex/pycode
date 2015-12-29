@@ -166,14 +166,14 @@ LOGGING = {
             'formatter': 'standard',
         },
         'console': {
-            'level': 'DEBUG',
+            'level': 'ERROR',
             'class': 'logging.StreamHandler',
-            'formatter': 'standard'
+            'formatter': 'simple'
         },
         'request_handler': {
             'level': 'DEBUG',
             'class': 'logging.handlers.RotatingFileHandler',
-            'filename': 'weblog/script.log',
+            'filename': 'weblog/request.log',
             'maxBytes': 1024*1024*5,
             'backupCount': 5,
             'formatter': 'standard',
