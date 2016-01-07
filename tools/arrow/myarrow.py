@@ -120,10 +120,14 @@ def GetSpan():
     print ctime.ceil('hour')
 
 def GetSubTime():
-    ctime1 = arrow.now().timestamp
-    ctime2 = arrow.get(1344533444).timestamp
-    sss = ctime1-ctime2
-    print sss
+    # .to("Asia/Shanghai")
+    ctime1 = arrow.get("2014-01-01 00:00:00").to("local").replace(hours=-8)
+    ctime2 = arrow.get(1388505600).to("local")
+    print ctime1.timestamp
+    print ctime1.format(truct)
+    print ctime2.timestamp
+    print ctime2.format(truct)
+
 
 def main():
     # getmytime()
