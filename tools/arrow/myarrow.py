@@ -66,7 +66,7 @@ truct="YYYY-MM-DD HH:mm:ss"
 
 def getmytime():
     # 获取时间对象
-    ctime = arrow.utcnow()
+    ctime = arrow.now()
     # ctime = arrow.get('2013-05-05 12:30:45', 'YYYY-MM-DD HH:mm:ss')
     # ctime = arrow.get('2013-09-30T15:34:00.000-07:00')
     # ctime = arrow.get("2015-10-28")
@@ -119,9 +119,16 @@ def GetSpan():
     print ctime.floor('hour')
     print ctime.ceil('hour')
 
+def GetSubTime():
+    ctime1 = arrow.now().timestamp
+    ctime2 = arrow.get(1344533444).timestamp
+    sss = ctime1-ctime2
+    print sss
+
 def main():
-    getmytime()
+    # getmytime()
     # Getarrow()
+    GetSubTime()
 
 if __name__ == '__main__':
     main()
